@@ -1,0 +1,1001 @@
+Transaction ID,Date,Customer ID,Customer Age,Customer Gender,Membership Status,Product Name,Category,Quantity Sold,Unit Price,Discount Applied (%),Total Sales,Payment Method,Store Location
+d29a457d-01cb-4bc5-b3d8-771f74536e76,2025-02-13,6097,65,Non-Binary,Regular,Blender,Home & Kitchen,7,202.51,15,1204.93,Credit Card,Miami
+9319548c-2584-4a9e-bdf8-24e108217845,2024-08-31,9436,47,Non-Binary,Gold,Smartphone,Electronics,10,724.58,5,6883.51,PayPal,Chicago
+1fa2cfa1-6073-4515-a19c-80ed86cd0cce,2024-05-02,6067,62,Female,Regular,Yoga Mat,Sports,9,647.1,5,5532.7,PayPal,Houston
+803a0c78-8937-4fde-92f0-60e76baca06b,2023-11-18,4242,46,Non-Binary,Regular,Headphones,Electronics,3,802.44,0,2407.32,PayPal,Miami
+a4d8a2bb-169c-4202-b23a-4b505d87d9b5,2022-12-21,2774,75,Non-Binary,Platinum,Vacuum Cleaner,Home & Kitchen,5,74.38,10,334.71,Cash,New York
+d47367cc-ecb7-47a7-8594-37538717a24b,2022-12-21,2841,29,Female,Platinum,Jeans,Clothing,10,625.73,5,5944.43,Credit Card,Los Angeles
+85bfc086-5e3d-49e9-870d-1c05c1fa12b3,2022-11-24,8086,41,Non-Binary,Silver,Smartphone,Electronics,7,892.04,20,4995.42,Debit Card,Miami
+4539ccb0-d03e-4589-a604-68010c62b30a,2023-02-17,6761,32,Male,Platinum,Jeans,Clothing,7,580.64,10,3658.03,Cash,Los Angeles
+3edfd7ed-b38d-4c9d-8a6a-40fc2b2070f6,2025-03-05,1591,20,Male,Regular,Fiction,Books,2,435.8,15,740.86,Debit Card,Houston
+15feea3b-8bdd-4dae-ae10-e8c2c2dcfdea,2024-04-25,2185,66,Male,Silver,Coffee Maker,Home & Kitchen,9,371.38,15,2841.06,PayPal,New York
+a92e9b33-1300-4fa2-8b42-ca222f157e9a,2022-09-04,1533,62,Non-Binary,Regular,Fiction,Books,9,624.26,20,4494.67,Cash,Los Angeles
+15e817ae-e0ca-4fd3-b9b8-ab655f66cc9c,2023-08-17,4518,62,Male,Silver,Vacuum Cleaner,Home & Kitchen,3,824.96,10,2227.39,Credit Card,New York
+12e70bf3-9c18-44b0-beaf-90558dcb7481,2023-12-01,9518,27,Female,Platinum,Smartphone,Electronics,6,373.8,15,1906.38,Credit Card,New York
+d193d533-9bad-4d3a-8f88-e97646e39f93,2023-04-10,5045,20,Female,Gold,Self-Help,Books,2,572.17,10,1029.91,Debit Card,Houston
+bde1eac5-17be-4576-8699-d17ef1275d7d,2024-07-18,5222,39,Male,Silver,Football,Sports,6,654.48,20,3141.5,Debit Card,Miami
+147a7aa7-aa33-4ee5-aa37-c9b3e59f9cd3,2022-11-19,1575,57,Female,Gold,Non-Fiction,Books,8,442.17,10,3183.62,Cash,Miami
+45dd9690-b7db-4652-9c62-c5f72ff567c3,2024-02-13,6264,58,Male,Platinum,Science,Books,4,998.9,15,3396.26,PayPal,Miami
+af858e49-33c8-4456-9e4b-a1f52b3efef1,2023-07-29,9722,27,Female,Platinum,Jeans,Clothing,9,340.43,15,2604.29,PayPal,Miami
+8b3e8afd-ad1b-49bd-90dd-745511280b02,2023-01-04,4521,42,Non-Binary,Platinum,Puzzle,Toys,1,608.69,0,608.69,Credit Card,New York
+62fa486a-2f5a-47fd-b2c0-d5f9e9f76c0a,2022-04-15,1669,35,Male,Regular,Science,Books,3,99.6,15,253.98,Debit Card,Houston
+c764b762-6f42-4abd-8210-4f437099bbd4,2022-07-15,5316,43,Male,Regular,Lego Set,Toys,6,526.37,15,2684.49,Credit Card,Chicago
+d5655438-1119-4ec6-a4a9-b37684f5f869,2023-12-09,4595,44,Female,Silver,Fiction,Books,2,24.93,10,44.87,Credit Card,Miami
+e11266fe-7a85-4715-a689-94a8f6abe03a,2023-05-02,3244,67,Female,Gold,Coffee Maker,Home & Kitchen,10,927.75,15,7885.88,Cash,New York
+ade5c8f7-d08a-4ea4-adb9-706998052492,2024-07-01,9368,61,Male,Regular,Vacuum Cleaner,Home & Kitchen,4,601.04,20,1923.33,Cash,Chicago
+615d88cf-6daa-4279-9bad-a774d0161daa,2023-08-02,4681,25,Non-Binary,Gold,Remote Car,Toys,10,521.99,20,4175.92,Cash,Los Angeles
+e6d14e4c-7b81-4384-95f0-4e7f6d082dc9,2024-08-07,3755,57,Female,Gold,Tennis Racket,Sports,10,609.55,5,5790.72,Debit Card,Houston
+0f481307-18fe-4f08-a637-9d30290063d3,2023-10-13,5522,26,Non-Binary,Regular,Yoga Mat,Sports,3,402.66,0,1207.98,Debit Card,New York
+ded9845d-4754-42ca-bc00-2a88199491b1,2023-02-05,7337,20,Female,Silver,Smartwatch,Electronics,8,236.24,10,1700.93,Credit Card,Chicago
+5677ec6f-369a-4f4c-abee-efae3f3f1a67,2024-05-22,4776,72,Female,Regular,Jacket,Clothing,4,970.5,10,3493.8,PayPal,Chicago
+7648d006-91d0-4799-bd97-ccdfc708c02d,2024-08-18,7480,67,Non-Binary,Silver,Self-Help,Books,9,731.69,0,6585.21,Debit Card,Houston
+a6e03766-032f-400b-84fc-925355f338c2,2024-01-23,6071,31,Female,Silver,Remote Car,Toys,2,682.89,20,1092.62,Credit Card,Miami
+be39a180-3f0f-417f-8654-f6b7fd5c9a57,2024-10-29,1329,59,Female,Platinum,Laptop,Electronics,3,118.65,15,302.56,PayPal,Chicago
+433519de-c0e3-48c9-ba93-00fdf76e9d60,2023-09-24,8624,54,Female,Regular,Remote Car,Toys,5,17.42,15,74.04,Debit Card,Los Angeles
+1d3ed25c-5628-4fd2-826a-a41e35fec3b4,2024-04-01,9030,37,Male,Platinum,Smartphone,Electronics,10,332.72,5,3160.84,Debit Card,Miami
+f06e05ba-a4fd-4f12-b622-ddcf9a5d9d91,2023-11-27,3477,30,Male,Regular,Fiction,Books,3,698.99,20,1677.58,Cash,Los Angeles
+487492e7-3925-47ab-bb5f-b0faa40a2b29,2023-07-07,1102,46,Non-Binary,Regular,Sneakers,Clothing,8,400.42,0,3203.36,Credit Card,Houston
+f2deab47-efc4-4ead-ac70-61ca7ec204fb,2025-02-22,9674,69,Male,Platinum,Jacket,Clothing,4,284.07,20,909.02,Cash,Los Angeles
+2631218a-e822-4124-816d-5faaa17ce4c9,2022-05-20,6546,36,Non-Binary,Silver,Science,Books,7,320.68,10,2020.28,PayPal,Los Angeles
+6bbc019d-fadc-4834-9704-2a2dd2832fb5,2023-12-05,5004,44,Female,Regular,Doll,Toys,6,334.82,20,1607.14,Debit Card,Miami
+a857e95b-d923-4978-a974-e5b8de041666,2024-02-05,8435,53,Female,Regular,Fiction,Books,7,153.44,5,1020.38,Credit Card,Houston
+97d5d6c5-9189-4793-9f50-d944ea3af1c3,2022-08-14,2409,25,Non-Binary,Regular,Headphones,Electronics,1,582.98,20,466.38,PayPal,Chicago
+a4c83150-d502-4e8f-8f2d-ef93c7f63a80,2024-09-04,9858,51,Female,Gold,Science,Books,6,786.92,0,4721.52,Cash,New York
+350d0a4e-ba74-4b21-b445-09e072c42ebc,2025-02-11,3333,43,Non-Binary,Platinum,Dumbbells,Sports,4,493.1,10,1775.16,PayPal,Miami
+691900df-4b41-41f3-b9e0-a5139b272228,2023-07-07,3520,59,Female,Platinum,T-shirt,Clothing,4,818.9,15,2784.26,PayPal,Houston
+698e065a-e2af-4721-a092-8af619fd0663,2024-06-15,4479,25,Non-Binary,Regular,Laptop,Electronics,4,108.86,5,413.67,PayPal,Chicago
+583ad007-3104-4377-ba9c-acec6197828a,2023-05-01,8519,44,Female,Regular,Tennis Racket,Sports,1,457.4,20,365.92,Debit Card,Chicago
+93b098b1-ad06-40b6-97d2-1d92003359ff,2023-12-17,4577,41,Male,Platinum,Tennis Racket,Sports,1,874.18,15,743.05,Credit Card,Houston
+44809d83-5375-4e2f-91da-e089fa899150,2022-04-27,6110,72,Female,Gold,Jeans,Clothing,7,92.68,0,648.76,Debit Card,New York
+041b31b1-804b-42c0-8b03-f5343d3720b8,2024-11-04,8010,75,Male,Silver,Self-Help,Books,7,195.42,10,1231.15,PayPal,Chicago
+2a34fdb6-c89f-4a17-a98b-484ac1b226f4,2022-10-10,8934,69,Female,Gold,Microwave,Home & Kitchen,5,57.69,15,245.18,Credit Card,New York
+080b8376-d658-42c9-88a4-510511d3cae0,2024-03-29,6223,74,Non-Binary,Regular,Jeans,Clothing,10,337.48,0,3374.8,Cash,Chicago
+f9c08fa9-a0de-4967-b9bf-62ae607386fe,2024-09-05,9027,24,Male,Silver,Dumbbells,Sports,4,882.27,20,2823.26,Debit Card,Houston
+b99fbba2-8345-496a-a58a-8391a8ee57dd,2023-04-24,3524,20,Female,Silver,Smartphone,Electronics,9,675.77,10,5473.74,Debit Card,New York
+a8b0847d-b50a-43d8-91cf-2da2639523c6,2024-04-26,3001,42,Non-Binary,Gold,Dumbbells,Sports,4,869.11,5,3302.62,PayPal,Miami
+705921d9-7e5b-4602-8739-95c94846db1e,2023-02-03,6720,56,Female,Gold,Smartphone,Electronics,8,899.38,0,7195.04,Debit Card,Chicago
+ef9369b0-ec92-45ed-ad79-2748791f8301,2024-10-28,4932,22,Male,Platinum,Doll,Toys,2,53.71,15,91.31,Debit Card,Miami
+69f759f5-9661-4de7-9ff7-3be140665906,2025-01-12,2747,58,Female,Regular,Non-Fiction,Books,10,136.11,0,1361.1,Credit Card,Houston
+4b3ab365-ccf1-4921-ba5c-5b0a89c53272,2024-07-29,6585,33,Male,Regular,Doll,Toys,4,89.84,5,341.39,Credit Card,New York
+033d0759-be3e-4328-885d-c137148a3901,2022-12-28,8396,73,Female,Gold,T-shirt,Clothing,1,453.11,0,453.11,PayPal,Chicago
+f9609681-6b24-46e2-a0a7-70a332945d7d,2024-11-22,9312,63,Male,Silver,Lego Set,Toys,10,765.89,10,6893.01,PayPal,New York
+6106c596-d108-4ec9-bdb5-4459ebf76ee9,2023-12-05,4421,35,Non-Binary,Gold,Science,Books,7,389.48,0,2726.36,PayPal,Miami
+e0b4de79-85d3-436a-8925-2e4c50bd13bd,2023-06-16,2917,53,Female,Silver,Fiction,Books,3,766.49,15,1954.55,Credit Card,Chicago
+68c3248f-d7d8-4762-8e20-96d0e26c441e,2022-10-31,9889,49,Male,Platinum,T-shirt,Clothing,5,567.48,15,2411.79,Credit Card,Chicago
+1f057651-6c9a-4b2a-86dc-d23f57f22b50,2024-03-11,6636,41,Non-Binary,Silver,Tennis Racket,Sports,7,364.6,0,2552.2,Credit Card,Houston
+1a449244-9f2e-4006-aeae-2cd21450160e,2023-07-28,8322,26,Male,Regular,Puzzle,Toys,1,332.94,5,316.29,Credit Card,New York
+381b0447-cfc1-47b4-b9ad-3874b469cfdd,2022-08-28,2172,72,Female,Silver,Tennis Racket,Sports,8,126.92,15,863.06,Credit Card,Miami
+8dd9394e-7a51-4707-99c6-f2c637c42cea,2023-05-20,6857,61,Non-Binary,Gold,Football,Sports,3,459.82,0,1379.46,Credit Card,Houston
+ccca4f91-c12d-4880-9d82-d52d5ac6f77c,2024-09-25,9714,19,Non-Binary,Gold,Football,Sports,2,938.05,10,1688.49,Credit Card,Los Angeles
+75a83241-85f2-4bab-83c7-30a43844f5ae,2023-12-24,4362,66,Non-Binary,Platinum,Sneakers,Clothing,5,39.93,0,199.65,Credit Card,Miami
+8da9faf7-7d63-4b6f-8983-67a5760a45fc,2023-04-29,8976,24,Female,Gold,Headphones,Electronics,1,442.52,20,354.02,Cash,Los Angeles
+67397828-5980-41cd-bb1b-e0b0f9fe7177,2023-04-15,8294,57,Non-Binary,Gold,Coffee Maker,Home & Kitchen,6,144.27,10,779.06,Credit Card,Houston
+e37fd027-7927-4f35-a236-55921f60b7a0,2025-02-10,9248,64,Female,Regular,Puzzle,Toys,1,853.59,0,853.59,PayPal,Miami
+1dbfc605-b2de-4bb2-82f4-b5e19580cc65,2024-11-08,8783,35,Non-Binary,Silver,Jeans,Clothing,1,273.1,5,259.44,PayPal,New York
+3db083cc-7e90-44e1-9128-b99dc918ca1d,2023-05-01,4734,70,Female,Silver,Self-Help,Books,6,549.37,0,3296.22,Debit Card,Miami
+3467fcda-c909-4767-a9a8-6736bfd92a8c,2023-03-07,3450,49,Male,Silver,Lego Set,Toys,1,178.27,20,142.62,Credit Card,Houston
+3e3adc18-8323-48d2-a2c0-065e66a2c399,2024-01-13,4526,37,Male,Gold,Laptop,Electronics,6,844.63,15,4307.61,Credit Card,Miami
+551c30bd-8089-40bd-9289-3d9d15705104,2022-05-15,6067,48,Non-Binary,Gold,Yoga Mat,Sports,1,652.53,10,587.28,Cash,Miami
+c36ccf3d-64d1-4f23-8b3c-5c7ece357316,2022-09-08,4763,34,Non-Binary,Platinum,Coffee Maker,Home & Kitchen,5,878.02,10,3951.09,Cash,Chicago
+14f1a75a-0335-4f2a-ae42-ec81d6609820,2024-01-28,8658,64,Non-Binary,Gold,Doll,Toys,4,687.88,10,2476.37,Debit Card,Miami
+cdb0ee01-0d48-429f-9734-aceb51cbd7fa,2022-10-11,2845,73,Female,Platinum,Remote Car,Toys,4,533.94,20,1708.61,PayPal,Los Angeles
+2c8ace46-c113-417c-a1d4-2035d31e4cc9,2022-07-12,5817,18,Non-Binary,Gold,Fiction,Books,3,802.39,15,2046.09,PayPal,New York
+52ed6de4-9e21-4220-9b86-0fcf6888db0f,2023-10-30,4457,47,Female,Regular,Microwave,Home & Kitchen,6,639.44,20,3069.31,PayPal,Houston
+3aa36a59-66db-48a4-9fbe-8c1711e031a7,2023-08-17,6612,60,Male,Regular,Fiction,Books,8,526.82,15,3582.38,Debit Card,New York
+11fa8b16-b084-4ed2-93da-57638fd11e9e,2024-03-04,6444,35,Non-Binary,Gold,Lego Set,Toys,5,858.33,15,3647.9,PayPal,Houston
+229e2281-c3a9-4afd-9086-0c4fd9c7663d,2024-09-12,8117,43,Male,Silver,Microwave,Home & Kitchen,5,614.18,5,2917.35,Cash,Chicago
+0c40c906-fc63-40a2-bb84-09d2c68564d3,2022-11-13,5340,54,Non-Binary,Regular,Headphones,Electronics,5,325.36,0,1626.8,Credit Card,Los Angeles
+7d54b5fa-5292-4ea6-965b-429754671ff5,2024-03-12,4297,18,Female,Platinum,Dumbbells,Sports,3,620.72,20,1489.73,Credit Card,New York
+b21305db-f17d-4ba5-b5b8-1de5a553ff67,2022-06-18,9205,20,Female,Gold,Jacket,Clothing,9,156.53,10,1267.89,PayPal,Los Angeles
+fa7389eb-8695-4f75-96ae-33a110764c20,2025-01-28,9160,73,Female,Silver,Headphones,Electronics,4,501.86,15,1706.32,Credit Card,Miami
+65ec5446-8690-4c3c-8583-cce6e3fb0af8,2022-08-18,7571,49,Non-Binary,Regular,Vacuum Cleaner,Home & Kitchen,2,470.87,20,753.39,PayPal,New York
+c616a9f4-7ee4-4313-a8d7-59f9b38a4f4b,2023-03-13,6072,37,Male,Silver,Jacket,Clothing,10,678.4,10,6105.6,Cash,Chicago
+a5c25007-0370-471d-bd9a-74acd68c7d24,2025-01-31,1140,53,Female,Platinum,Vacuum Cleaner,Home & Kitchen,1,813.43,15,691.42,Cash,Miami
+17f84259-1c4b-4437-89f2-8fb7558140b9,2023-11-26,2679,38,Female,Regular,Doll,Toys,6,655.86,5,3738.4,Credit Card,Chicago
+5286bce3-46c3-4d76-a5bc-90572d61d537,2022-05-11,6388,33,Non-Binary,Silver,Fiction,Books,4,10.29,20,32.93,Debit Card,New York
+c08e182a-614d-47af-a381-237dc9e35066,2023-07-29,2223,33,Female,Platinum,Remote Car,Toys,6,811.18,20,3893.66,Credit Card,New York
+d8365749-eb39-464a-ab37-1933ced52b0d,2024-10-17,2698,48,Female,Regular,Microwave,Home & Kitchen,9,765.68,15,5857.45,Debit Card,Chicago
+3cd838ad-a8e2-49bb-b1cb-d939de20fde2,2024-11-28,5084,75,Male,Silver,Football,Sports,5,553.19,0,2765.95,Cash,Houston
+0acdce55-e564-4f3a-9dae-2288e0f02256,2022-07-20,4092,55,Non-Binary,Platinum,Yoga Mat,Sports,7,451.6,20,2528.96,PayPal,Houston
+d77d253e-5adf-4270-8e98-47fc7d8e4296,2023-06-20,3668,60,Male,Silver,Coffee Maker,Home & Kitchen,6,651.2,15,3321.12,Cash,Houston
+985c13f8-a760-41d3-8036-f505622dc343,2022-10-21,5666,24,Non-Binary,Regular,Science,Books,10,584.58,20,4676.64,Credit Card,New York
+179add01-4442-43c0-82e8-484358c29b98,2025-02-11,2920,24,Female,Silver,Yoga Mat,Sports,1,825.11,10,742.6,Debit Card,Houston
+4481efe1-224c-4064-b932-9cac68fccb53,2022-09-03,4565,68,Non-Binary,Regular,Coffee Maker,Home & Kitchen,6,211.2,15,1077.12,PayPal,Houston
+87424170-f93b-49c1-b474-f78ab735328f,2023-11-03,2022,33,Non-Binary,Silver,Remote Car,Toys,4,500.62,5,1902.36,Debit Card,Los Angeles
+069fc866-c3b9-4a0b-bac1-5313a414f5f1,2025-02-19,4662,27,Male,Platinum,Vacuum Cleaner,Home & Kitchen,3,151.48,20,363.55,Debit Card,Los Angeles
+0ed2b327-5a78-4ffd-8eed-b85a7b81f8b7,2023-06-26,1993,28,Female,Regular,Jacket,Clothing,8,706.46,0,5651.68,Cash,New York
+029cc258-f551-44ab-a349-d5e9f3e7e242,2022-06-08,9218,33,Non-Binary,Gold,Sneakers,Clothing,7,79.67,10,501.92,Cash,New York
+195893a2-b50e-4376-9133-80fb2bb311dc,2024-10-30,6874,46,Female,Gold,Smartwatch,Electronics,5,979.82,10,4409.19,Credit Card,New York
+12fd4ff5-d88f-4f2a-bc53-5050db3c69a5,2022-06-08,1512,64,Non-Binary,Regular,Microwave,Home & Kitchen,5,604.58,5,2871.76,Debit Card,Miami
+63b5e726-a16c-4665-8b88-bb65820cb155,2024-09-28,9172,71,Non-Binary,Gold,Jacket,Clothing,8,19.21,20,122.94,Debit Card,Houston
+b2b4fbac-7cf4-4b02-8d54-9d45323d49f2,2022-12-17,6308,43,Non-Binary,Gold,Smartphone,Electronics,4,378.22,20,1210.3,Credit Card,Miami
+696c4ba8-dbda-43be-a55a-2e98982513d0,2025-01-21,6415,52,Female,Silver,Non-Fiction,Books,6,878.22,5,5005.85,Cash,Houston
+e96a094f-4e97-4951-a8c3-26c1a15ba2ad,2024-12-18,7362,21,Non-Binary,Platinum,Headphones,Electronics,6,590.1,15,3009.51,PayPal,New York
+871651f0-a6c6-4549-a8da-6b5e39ade622,2024-08-14,4118,45,Non-Binary,Platinum,Self-Help,Books,1,257.42,5,244.55,PayPal,Los Angeles
+ec9b32c2-c6ad-40cc-9113-5066e232b791,2024-06-22,3717,50,Female,Silver,Non-Fiction,Books,1,405.18,0,405.18,Cash,Houston
+594f4413-c56e-4aee-b240-c43fcd5895af,2024-03-01,6289,70,Non-Binary,Gold,Puzzle,Toys,9,686.28,15,5250.04,Cash,Miami
+00d35c01-a4a7-4ad6-9440-e2a9d2428f67,2022-04-21,6056,26,Female,Silver,Vacuum Cleaner,Home & Kitchen,3,443.03,5,1262.64,Debit Card,New York
+2635459f-ce30-4f8f-88b4-af1eb875f192,2022-07-18,3707,62,Male,Regular,T-shirt,Clothing,2,993.38,15,1688.75,PayPal,Chicago
+18e6743a-2ebf-4261-976c-6b2dea6d4785,2022-06-15,6610,35,Female,Platinum,T-shirt,Clothing,1,754.43,5,716.71,Cash,Los Angeles
+66e7883b-0f19-4cd5-a140-09508d40e651,2022-10-23,2796,30,Male,Gold,Tennis Racket,Sports,1,607.12,0,607.12,Cash,Houston
+534eb907-d194-4e14-8505-d4831db2fe0c,2022-04-16,3439,39,Female,Silver,Laptop,Electronics,10,305.56,20,2444.48,Debit Card,Los Angeles
+4486a575-c4bb-4f4b-bb25-109965c88743,2024-10-01,2875,68,Female,Platinum,Lego Set,Toys,9,309.09,10,2503.63,PayPal,Houston
+fc6a21c9-d26f-471b-b0a8-fd5c8e33fe89,2023-10-23,5220,74,Female,Gold,Lego Set,Toys,8,365.45,5,2777.42,Credit Card,Houston
+9d74474a-e675-4238-87d5-4a2f01b746e5,2023-05-17,5100,71,Female,Regular,Jeans,Clothing,8,258.67,5,1965.89,PayPal,Miami
+7caac148-8c80-46cb-988d-e98ac79b4ecd,2023-12-20,9059,67,Non-Binary,Platinum,T-shirt,Clothing,9,946.06,5,8088.81,Debit Card,Miami
+1134a201-ecdc-44bc-9e23-5897125f0523,2023-03-07,1293,40,Female,Platinum,Microwave,Home & Kitchen,5,379.68,15,1613.64,Cash,Houston
+ee0ffdf7-977b-4e5e-8358-bbb7251da58f,2024-01-03,4918,19,Non-Binary,Gold,Self-Help,Books,1,219.86,20,175.89,Debit Card,Houston
+81a5cb24-1806-49ed-8858-d2d5939feb71,2024-07-02,6548,70,Female,Platinum,Tennis Racket,Sports,6,255.97,10,1382.24,Credit Card,New York
+7b8e0176-e390-42d2-b35c-561aa292d403,2023-10-09,5167,75,Non-Binary,Gold,T-shirt,Clothing,1,819.63,0,819.63,Debit Card,Chicago
+fcd808e4-f6b2-43c8-b6de-7e6ec8e67658,2022-12-01,9987,21,Male,Platinum,T-shirt,Clothing,6,494.34,20,2372.83,PayPal,Houston
+add625ae-df05-4458-8c76-b4d08358a6a4,2023-01-13,4458,45,Non-Binary,Platinum,T-shirt,Clothing,4,131.27,15,446.32,Debit Card,Houston
+d3085176-b651-4873-ba9f-46c0ebbfa9ee,2023-10-29,9763,23,Non-Binary,Regular,Self-Help,Books,10,543.94,5,5167.43,Credit Card,New York
+ee2d1db1-f18c-46d7-855b-d1b22d60fb85,2024-07-21,2330,71,Non-Binary,Gold,Vacuum Cleaner,Home & Kitchen,3,494.03,20,1185.67,PayPal,Houston
+50c5c374-0781-4f96-a993-b5908265a5be,2024-05-10,7660,25,Male,Regular,Laptop,Electronics,3,137.16,5,390.91,Credit Card,Los Angeles
+a96f1035-8efa-4702-91f1-dfcd96420f11,2024-04-19,5999,58,Male,Platinum,Lego Set,Toys,1,360.44,0,360.44,Debit Card,New York
+b8ca104b-ea3b-4b27-9f38-cae5bbfbfdc2,2023-01-02,1117,43,Non-Binary,Silver,Headphones,Electronics,7,722.38,5,4803.83,Cash,Chicago
+da4eb281-a2b3-4211-86c0-e502beac5bbc,2024-06-13,9712,64,Female,Regular,Headphones,Electronics,3,793.76,15,2024.09,Credit Card,Miami
+635f48b4-c484-4f08-bb4a-ca7017596c6a,2024-08-05,7537,60,Non-Binary,Gold,Lego Set,Toys,1,55.61,20,44.49,Credit Card,Los Angeles
+9cc57dd6-f2db-4798-be52-f6b0dc1528ee,2023-06-24,5088,24,Female,Gold,Dumbbells,Sports,6,36.93,10,199.42,Debit Card,Chicago
+5ffb1c4f-9edd-4e93-b667-e383716a2b90,2022-06-29,6128,72,Male,Gold,Fiction,Books,10,465.94,15,3960.49,PayPal,Los Angeles
+0343d7d8-2605-4bb7-9afd-899c3543fa65,2023-01-27,4336,62,Female,Platinum,Non-Fiction,Books,8,369.73,10,2662.06,Debit Card,New York
+6485ac67-3c8c-4f00-aafc-db18c59651d5,2024-04-15,7023,20,Non-Binary,Silver,Sneakers,Clothing,1,851.03,10,765.93,PayPal,Houston
+e5c3bfae-6ca7-45b5-a6a0-30d87e652fa1,2022-04-25,6443,47,Non-Binary,Gold,Microwave,Home & Kitchen,6,576.82,0,3460.92,Credit Card,Miami
+b1880bbe-0613-4896-bb2a-cb330745b020,2023-06-19,7253,22,Male,Regular,Puzzle,Toys,5,753.5,10,3390.75,Credit Card,Houston
+723b78ad-dff5-4057-88f9-f6744fd0fa64,2024-03-10,3417,65,Female,Regular,Coffee Maker,Home & Kitchen,4,356.42,15,1211.83,PayPal,Chicago
+0b4d76d9-f016-45e2-8cb9-6c6f72fe8fa8,2022-10-05,9158,53,Female,Regular,Science,Books,5,574.43,10,2584.93,PayPal,Miami
+c144bf6c-6c8f-4432-a5d9-1112b2e26222,2024-02-05,4769,58,Non-Binary,Silver,Blender,Home & Kitchen,5,215.59,10,970.16,Credit Card,Miami
+e30ad75b-5a88-43f2-80f6-a24d0661bd57,2023-06-03,1628,50,Female,Regular,Self-Help,Books,9,286.81,5,2452.23,Debit Card,Miami
+b0747fc3-3d1c-4dc1-85a5-cef7541a552e,2023-10-17,1989,36,Female,Regular,Remote Car,Toys,8,83.42,20,533.89,PayPal,Chicago
+aff2b3be-b4ba-44e8-9c69-240734d0c66d,2024-05-07,9757,71,Male,Platinum,Vacuum Cleaner,Home & Kitchen,6,890.82,0,5344.92,Cash,New York
+4c2e07c9-49f4-43aa-89ad-419bfee9937e,2022-03-27,6294,31,Male,Silver,Fiction,Books,8,935.05,5,7106.38,Cash,New York
+29889c90-e1ef-44ab-bede-a9a30172cffe,2022-11-11,5607,53,Non-Binary,Regular,Sneakers,Clothing,6,224.63,10,1213.0,Cash,Miami
+b32f6c0d-cada-40ea-9319-648793c01140,2023-08-22,1658,45,Male,Platinum,Microwave,Home & Kitchen,3,176.42,20,423.41,Credit Card,Chicago
+826d7d65-7a83-4398-8518-ae0cbfb40796,2023-03-20,3207,64,Male,Regular,Coffee Maker,Home & Kitchen,1,918.9,0,918.9,Debit Card,New York
+8daede51-042b-4d25-8f85-18587fec15e3,2025-01-28,1862,58,Female,Silver,Sneakers,Clothing,3,292.38,0,877.14,Cash,Los Angeles
+26312c82-6c07-4616-bd83-de7b8ca51363,2022-06-28,1978,21,Male,Silver,Yoga Mat,Sports,4,569.94,10,2051.78,Debit Card,Los Angeles
+88166e01-619f-4c8f-b124-ad8e1ec1a2a2,2024-01-26,8729,52,Non-Binary,Gold,Jeans,Clothing,5,808.7,5,3841.32,Cash,Chicago
+7a05d018-c8a2-4582-8595-0531d4581b1e,2023-05-01,6404,32,Non-Binary,Regular,Non-Fiction,Books,9,280.71,20,2021.11,PayPal,Houston
+4dedcb2d-b73b-46ff-b633-94925a4ecbe1,2023-02-18,1107,21,Female,Gold,Smartwatch,Electronics,5,234.18,5,1112.36,Cash,New York
+1182b45c-013a-48a3-b358-186a5ddac64f,2024-09-11,8153,39,Female,Silver,Sneakers,Clothing,6,623.68,0,3742.08,Debit Card,Chicago
+5fa937c9-171b-461f-8f48-e18b409caade,2024-08-27,1397,51,Male,Regular,Jeans,Clothing,10,966.84,15,8218.14,PayPal,Los Angeles
+f29f6f4c-f860-4599-8a44-8c1bee4dd0b9,2022-10-11,7064,44,Male,Platinum,Sneakers,Clothing,5,574.51,5,2728.92,Credit Card,Chicago
+54dec0cc-c7d5-4d8e-b0e8-425450e52a48,2025-01-02,5469,29,Male,Regular,Laptop,Electronics,5,853.8,20,3415.2,Debit Card,Chicago
+f4c8db6d-4822-4bcc-ac9d-104195789ff0,2024-12-21,2274,69,Non-Binary,Silver,Fiction,Books,8,710.12,5,5396.91,Debit Card,New York
+dddd3759-9844-4e26-8f17-6e7a56ed59a9,2022-05-01,4587,48,Female,Regular,Science,Books,8,777.04,5,5905.5,PayPal,Miami
+8ddd578b-28ab-4f09-90d9-9a2d3ae9b415,2022-09-10,3029,67,Male,Gold,Headphones,Electronics,8,964.33,10,6943.18,Credit Card,Los Angeles
+e49a43f4-2d50-4816-a949-56d0125cfbd1,2024-01-19,3855,64,Non-Binary,Gold,Puzzle,Toys,6,366.98,10,1981.69,PayPal,New York
+ce36081b-0336-4ef8-917f-a9b809d67757,2024-01-22,6778,32,Female,Platinum,Science,Books,5,451.99,20,1807.96,Debit Card,New York
+c1f4ecb2-8d1f-4547-b5ea-374fd00be898,2024-02-09,6287,29,Female,Silver,Yoga Mat,Sports,1,467.48,20,373.98,Debit Card,New York
+b17750ca-d6a5-4c14-ab65-d1a71b5d27e6,2025-02-19,8385,36,Non-Binary,Regular,Vacuum Cleaner,Home & Kitchen,2,115.74,20,185.18,Debit Card,Houston
+30cc60a1-0d56-48c7-92b7-66c305ca3c64,2022-07-23,7326,75,Male,Gold,Coffee Maker,Home & Kitchen,10,886.71,15,7537.03,Credit Card,New York
+673d366c-2de0-4c12-ad35-6bd1058c9078,2024-12-18,1885,74,Male,Gold,Laptop,Electronics,2,166.96,0,333.92,Debit Card,New York
+17cc9341-c3ce-4959-b5cc-dfc25a1e4aef,2023-10-08,1528,35,Female,Platinum,Self-Help,Books,6,245.2,15,1250.52,Cash,Miami
+b27bfe47-a104-4778-a271-7817470f6764,2023-02-27,5034,63,Male,Regular,Non-Fiction,Books,10,724.16,10,6517.44,Cash,Houston
+26cd124c-a8d8-4e42-ba7f-3a292ff5d671,2022-11-27,3979,53,Female,Regular,Blender,Home & Kitchen,7,627.48,20,3513.89,Credit Card,Houston
+1f9abdec-7a42-4432-885a-a0fcbd1a590a,2024-11-19,8022,37,Non-Binary,Regular,Science,Books,5,656.7,5,3119.32,Debit Card,Los Angeles
+c324e109-dff5-42b3-b5b0-f7890aa8db48,2023-07-30,5272,32,Female,Platinum,Non-Fiction,Books,9,43.38,15,331.86,Cash,Houston
+87e6ad17-9a0c-4ce8-b1fe-a7bae38d3828,2023-02-13,7920,47,Female,Gold,Coffee Maker,Home & Kitchen,2,422.27,5,802.31,Cash,Chicago
+e022e1d9-732a-419e-9f1c-4b5c734dcf13,2023-08-13,4204,40,Non-Binary,Gold,Non-Fiction,Books,6,14.65,15,74.72,PayPal,New York
+45b58b42-308f-4dde-9645-f09eb316b808,2023-09-24,3289,36,Non-Binary,Platinum,Jeans,Clothing,2,641.43,5,1218.72,PayPal,Houston
+d0a75024-2754-43d6-9c33-ddf9f708e837,2024-05-11,7177,67,Male,Regular,Yoga Mat,Sports,1,525.22,0,525.22,Credit Card,Miami
+2df524a0-14fa-45ff-b112-be5c80856e8d,2023-03-31,1832,68,Non-Binary,Silver,Jacket,Clothing,8,409.33,5,3110.91,Cash,Miami
+e8472011-9dec-4dab-a5bd-546d9c50650f,2022-09-12,3891,71,Non-Binary,Regular,Lego Set,Toys,10,793.7,10,7143.3,Cash,Houston
+cc886bf5-2fba-4470-ab3c-b6a9471117b3,2023-02-25,6430,28,Male,Platinum,Smartwatch,Electronics,9,58.58,0,527.22,Credit Card,Los Angeles
+b992319e-0b13-4077-b224-ac39adc43706,2022-03-29,4039,33,Male,Regular,Puzzle,Toys,8,18.67,0,149.36,Debit Card,New York
+7fed9cd4-0019-4086-8504-8e3a522ba0fa,2023-04-24,4742,23,Non-Binary,Gold,Smartwatch,Electronics,10,325.61,15,2767.69,Cash,Chicago
+96105915-be6b-42be-88e8-d33a8cfb5ac7,2024-07-21,9652,69,Male,Gold,T-shirt,Clothing,3,156.24,20,374.98,Debit Card,Chicago
+a09165c2-a601-4113-87eb-dde9d8129818,2022-07-10,4856,69,Female,Platinum,Smartwatch,Electronics,3,745.51,10,2012.88,PayPal,Miami
+30ba6637-1574-479a-bff7-998c2d599bd4,2024-10-23,9485,49,Female,Silver,Blender,Home & Kitchen,9,831.61,10,6736.04,Debit Card,New York
+fcf29874-635c-4506-8bbc-828fabf9cf5d,2023-02-17,5229,52,Non-Binary,Platinum,Sneakers,Clothing,8,339.16,10,2441.95,Debit Card,Miami
+55671fce-54bb-43e0-bbb5-f1a899f65e55,2023-06-12,1343,69,Male,Regular,Headphones,Electronics,8,287.33,5,2183.71,Cash,Chicago
+3d355f6b-01a8-45d1-adc3-e8622aa28440,2022-05-02,2773,33,Non-Binary,Silver,Microwave,Home & Kitchen,5,730.48,20,2921.92,Debit Card,Los Angeles
+92a96f37-a44e-44d1-a7e8-a724f77280e5,2022-05-04,6408,26,Female,Silver,Laptop,Electronics,9,314.03,5,2684.96,PayPal,Houston
+0c9315b5-2606-444e-9e02-dd1420346a1b,2024-12-26,6241,26,Female,Regular,Lego Set,Toys,1,548.94,0,548.94,PayPal,New York
+42291238-9763-44aa-ad66-c2ed41345668,2022-03-17,7837,44,Male,Gold,Tennis Racket,Sports,2,872.65,5,1658.03,Debit Card,New York
+52fa0b0c-c377-4c08-b582-1b50a6b27a81,2024-02-21,2149,63,Female,Gold,Smartwatch,Electronics,6,312.73,15,1594.92,PayPal,New York
+abcbe8bf-8c6b-4fd1-a73a-1095917b9abf,2022-06-01,7226,74,Female,Silver,Doll,Toys,10,717.6,15,6099.6,Cash,Miami
+b4f735b8-e200-4169-94fe-bc6bbb323877,2023-05-07,4400,65,Female,Silver,Jacket,Clothing,4,984.38,10,3543.77,Debit Card,Chicago
+3b178bcf-72c4-4d71-9da0-039c5a2ff848,2023-06-28,8284,59,Female,Platinum,Yoga Mat,Sports,8,55.25,15,375.7,Cash,New York
+b10fef25-5e86-4595-a8d6-f88ab5d1b122,2022-08-03,2654,66,Male,Regular,Self-Help,Books,2,945.76,20,1513.22,PayPal,Chicago
+31004984-ff55-41cf-8710-3d3cc9786d6e,2022-05-27,3790,24,Female,Platinum,Jacket,Clothing,4,398.42,15,1354.63,Debit Card,New York
+7ae7ee1c-e600-40c3-a294-dd066b3c547d,2023-12-21,4115,54,Non-Binary,Gold,Football,Sports,9,544.55,15,4165.81,Credit Card,Los Angeles
+e7a3b476-413c-4d11-81c3-7a5be636404f,2023-10-12,5308,74,Male,Silver,Laptop,Electronics,9,203.91,10,1651.67,Cash,Los Angeles
+d00cccc6-226f-4e35-83b4-f5bfdc7acc73,2022-05-18,9194,52,Male,Regular,Vacuum Cleaner,Home & Kitchen,7,43.23,20,242.09,Cash,Los Angeles
+6d79799f-a717-45a0-9bda-38df379b04d9,2023-05-26,4590,43,Non-Binary,Platinum,Smartwatch,Electronics,9,356.3,15,2725.7,Cash,New York
+c987adde-21a1-431e-ae0a-e3c534020b02,2023-07-29,2679,30,Male,Platinum,Laptop,Electronics,8,770.02,0,6160.16,Cash,Miami
+e2c87782-bb6e-4505-84dc-ca8340da6744,2023-11-06,2608,74,Male,Silver,Smartphone,Electronics,8,192.27,0,1538.16,Debit Card,Miami
+d85a654c-1b42-428f-82b0-3708cb3f8b62,2022-11-23,5631,26,Non-Binary,Gold,Doll,Toys,6,345.0,0,2070.0,Cash,New York
+c2b4678b-c989-495f-b75f-af66aae6241c,2023-03-22,4268,47,Male,Silver,Fiction,Books,10,794.48,0,7944.8,Debit Card,Houston
+a453c3b7-6f4b-4895-98c1-48d0062f7a80,2024-03-17,8214,30,Non-Binary,Regular,Dumbbells,Sports,8,818.21,15,5563.83,Credit Card,Los Angeles
+7602d6c5-8ff8-42aa-a7cb-10eaf9bef110,2022-05-24,6525,50,Non-Binary,Platinum,Microwave,Home & Kitchen,4,302.83,20,969.06,Credit Card,New York
+1d22e9c2-cdaa-44ca-b6d2-023b8616049f,2023-06-21,8598,30,Female,Regular,Jeans,Clothing,4,300.27,5,1141.03,Credit Card,Miami
+d88fe346-de69-4f3a-be7c-8f6be2fe5419,2022-05-15,7344,29,Non-Binary,Silver,Puzzle,Toys,4,678.21,10,2441.56,PayPal,Houston
+b78bbb42-279f-4a1c-8efb-398bf6fb6c3a,2024-03-26,4774,63,Non-Binary,Silver,Sneakers,Clothing,5,425.56,20,1702.24,Credit Card,Chicago
+b4ccab0d-8add-4db3-a508-213eea8fbc36,2022-08-13,2064,65,Male,Gold,Microwave,Home & Kitchen,10,394.8,0,3948.0,Credit Card,Chicago
+8f3683fe-7899-49be-8ad9-d5687aea2059,2023-10-30,4569,18,Female,Regular,Tennis Racket,Sports,7,555.42,20,3110.35,Debit Card,New York
+8a242aa7-04aa-44d1-a350-6f8b9390263e,2024-09-01,3079,54,Female,Silver,Non-Fiction,Books,5,463.3,0,2316.5,Cash,Los Angeles
+e6965d3b-3ce7-47dc-826b-7cbfb67d367e,2023-03-03,9406,42,Female,Gold,Fiction,Books,6,863.08,15,4401.71,PayPal,Los Angeles
+3a9daadc-09e0-4d26-8c91-8e5ca6cdf795,2022-04-07,2150,73,Female,Platinum,Dumbbells,Sports,7,768.28,15,4571.27,Cash,Los Angeles
+00254391-ca20-4d03-b88b-1e998b0f0b75,2022-07-02,2535,27,Female,Regular,Remote Car,Toys,6,134.5,20,645.6,PayPal,Chicago
+fc8bb298-fcdb-4ded-a530-eb045a3e28ce,2023-02-14,3523,72,Female,Regular,Jeans,Clothing,10,824.94,0,8249.4,Credit Card,Los Angeles
+290fac99-81c4-4470-8af5-2d373b111088,2022-04-19,4578,63,Male,Gold,Puzzle,Toys,4,318.62,15,1083.31,PayPal,Los Angeles
+e3fbd100-e518-484a-8d31-f5b0ec6b6eb5,2023-04-23,5401,74,Non-Binary,Platinum,Football,Sports,5,641.82,0,3209.1,Cash,Houston
+711ff572-a330-4b48-ba66-62018359a25a,2023-12-21,8064,36,Non-Binary,Silver,Sneakers,Clothing,4,971.11,0,3884.44,Debit Card,Los Angeles
+c8df352c-bc08-4b08-95a8-f4b8bc3ac91f,2024-09-08,2908,31,Male,Silver,Dumbbells,Sports,7,835.63,5,5556.94,PayPal,New York
+3ab37b3d-34e7-4dd4-a444-3ee4c0154c35,2023-11-20,2286,35,Non-Binary,Platinum,Jeans,Clothing,9,737.42,15,5641.26,Debit Card,Miami
+0736dec4-78a1-439f-b4ec-0a844eb93767,2023-05-06,2418,19,Female,Regular,Blender,Home & Kitchen,10,103.19,5,980.31,Cash,Houston
+29a044dc-71b8-469e-9b0f-3732c9acd2a1,2023-06-06,5325,48,Non-Binary,Regular,Smartphone,Electronics,2,35.51,20,56.82,PayPal,Los Angeles
+f976f369-16ea-40b3-a8fc-fd1cc5a56fed,2024-12-07,7943,73,Male,Silver,Lego Set,Toys,4,256.37,10,922.93,PayPal,Miami
+f7597a2c-44e1-4834-be1f-42e2f448b254,2024-09-24,2633,57,Non-Binary,Platinum,Coffee Maker,Home & Kitchen,10,703.19,0,7031.9,Cash,Los Angeles
+12459d12-3446-4c7d-8566-c67d3e57dc37,2023-08-23,9107,32,Male,Platinum,Dumbbells,Sports,5,913.53,0,4567.65,Debit Card,Chicago
+339b265a-9277-4271-951b-ed3d174bef79,2023-04-15,5584,72,Female,Silver,Smartwatch,Electronics,7,95.37,15,567.45,Credit Card,Chicago
+f03cca2e-7d1b-4623-92db-4fcf3c39f738,2023-12-17,3906,51,Male,Silver,Smartwatch,Electronics,2,210.42,10,378.76,PayPal,Los Angeles
+1d64da74-2378-4e35-83ac-252a90597a15,2024-06-13,8960,45,Male,Regular,Yoga Mat,Sports,3,856.43,5,2440.83,Debit Card,Chicago
+78681e68-2a64-49f9-b73b-4220c31d2dcd,2023-10-07,3462,62,Non-Binary,Silver,Science,Books,10,860.87,15,7317.4,Credit Card,Los Angeles
+f45098af-a4ad-44f5-8b4d-c61408e380ed,2022-11-30,2186,68,Non-Binary,Regular,Smartphone,Electronics,5,79.97,20,319.88,Credit Card,Los Angeles
+409d06cb-e747-462f-8ffe-2b30918dbb2d,2023-11-23,3523,43,Male,Regular,Remote Car,Toys,1,537.5,15,456.88,Debit Card,Miami
+1c4592d2-b9d5-4329-aa37-2c538bb78991,2024-05-10,1088,30,Non-Binary,Silver,Vacuum Cleaner,Home & Kitchen,4,611.69,20,1957.41,Credit Card,New York
+a514f54e-638e-48ab-b4a4-7e1fa0cf504a,2023-03-01,4094,60,Non-Binary,Gold,Sneakers,Clothing,2,340.72,15,579.22,Debit Card,Houston
+e3631e5f-44ac-4bc6-93c8-cd3a44d4d986,2024-07-30,8128,63,Female,Regular,Dumbbells,Sports,4,614.74,0,2458.96,Cash,Miami
+0d021e38-5061-40b5-a721-a047bc7337ea,2023-07-28,5148,25,Non-Binary,Silver,Smartwatch,Electronics,9,562.16,15,4300.52,Cash,Houston
+0842b6e4-3023-4d07-b651-5ad1dde629f7,2022-10-01,2926,59,Male,Platinum,Microwave,Home & Kitchen,6,213.52,10,1153.01,PayPal,Miami
+80cafc5a-1395-498d-953f-239b46ba7439,2022-12-03,2198,37,Male,Gold,Smartphone,Electronics,4,681.71,20,2181.47,PayPal,Chicago
+585ba1e6-1a8f-44e7-9916-7d9c26ba58e3,2024-07-01,1776,66,Male,Platinum,Lego Set,Toys,3,542.52,0,1627.56,Debit Card,New York
+b070139e-1282-4584-8c5f-7065f79b3acc,2023-12-25,1015,59,Non-Binary,Platinum,Smartphone,Electronics,3,9.51,0,28.53,Credit Card,Houston
+53a06ff5-5d29-4425-b6da-fb9462687f73,2023-05-12,8177,54,Non-Binary,Platinum,Jeans,Clothing,8,726.62,10,5231.66,Credit Card,Chicago
+e4378232-1d47-4d53-bda1-4f504fe1d8a0,2023-08-18,5126,42,Non-Binary,Gold,Blender,Home & Kitchen,7,236.88,15,1409.44,Cash,Los Angeles
+3b0283c4-c9d2-48d7-813f-468240c902d5,2022-06-19,7323,70,Female,Silver,T-shirt,Clothing,8,467.81,15,3181.11,Cash,Chicago
+75faed4e-55a9-44e2-90b5-d0c190eab450,2022-04-12,3706,59,Female,Silver,Remote Car,Toys,8,63.68,0,509.44,PayPal,Chicago
+9befada4-dea4-4d1e-aab6-2bf97eda2bd3,2024-12-13,7992,53,Male,Platinum,Doll,Toys,2,280.29,5,532.55,Credit Card,Los Angeles
+e392b467-3eff-49ab-9a6c-8697ce0c3d30,2022-08-26,5569,54,Female,Platinum,Jeans,Clothing,2,409.21,0,818.42,Cash,Houston
+cef35011-e3b0-4dcf-96a2-30dbfaaffdc8,2023-12-21,1292,62,Non-Binary,Regular,Headphones,Electronics,10,63.33,5,601.63,Credit Card,Chicago
+b58e6712-4e47-4872-adda-5845225a0f03,2024-04-09,2802,43,Male,Regular,Football,Sports,1,769.67,0,769.67,PayPal,Chicago
+bad4b4b6-450a-4d59-bb88-d570261fe647,2023-05-23,5740,18,Non-Binary,Platinum,Laptop,Electronics,1,890.93,0,890.93,Cash,Houston
+4fc015a8-556c-485f-9184-ec33b70187ed,2025-01-12,6471,22,Female,Silver,Football,Sports,5,744.18,20,2976.72,PayPal,Houston
+51c7b5e5-55cb-43f1-beef-da6d4c4218a7,2025-02-21,8319,42,Female,Gold,Microwave,Home & Kitchen,2,969.68,0,1939.36,PayPal,Miami
+6ef64100-7644-4317-ad2c-0242c482d92e,2024-08-04,4137,75,Female,Regular,Remote Car,Toys,6,545.33,5,3108.38,Debit Card,Houston
+f248fc09-e2ca-48b8-8e22-7aed0118bd5c,2022-05-24,3663,37,Male,Platinum,Sneakers,Clothing,10,890.96,10,8018.64,Debit Card,Chicago
+14c79038-d92b-4d8f-a63e-3f4a0e99e310,2024-02-22,6100,64,Non-Binary,Gold,Doll,Toys,2,495.56,5,941.56,Cash,Los Angeles
+d9d4aaed-5c1b-4b09-a41c-70ca38264090,2024-08-16,4206,58,Male,Silver,Sneakers,Clothing,4,59.4,20,190.08,Credit Card,Los Angeles
+efe8332f-bc5b-44b2-b642-5e40e1f85fb0,2023-01-18,3779,52,Male,Regular,T-shirt,Clothing,7,787.26,5,5235.28,Debit Card,New York
+6e3b4d0b-4e97-4513-b259-1560923419e5,2022-04-18,5322,45,Male,Regular,Puzzle,Toys,8,605.36,15,4116.45,Debit Card,Chicago
+e4266e29-8529-435d-a899-9edadf07d878,2024-06-09,8953,29,Female,Silver,Fiction,Books,10,384.68,0,3846.8,Credit Card,Houston
+d9a8ae70-c3ef-4b95-8dd0-525d5d2eb5ed,2022-09-16,2048,75,Non-Binary,Platinum,Doll,Toys,6,179.2,15,913.92,PayPal,Houston
+7d7db1d3-2a53-491c-a34e-3fd101b921ed,2024-06-10,9676,66,Male,Silver,Puzzle,Toys,10,312.85,5,2972.07,Credit Card,New York
+fdbdbfea-fc2e-4f1e-b968-7cc9b5161c6e,2024-01-10,1924,38,Female,Gold,Blender,Home & Kitchen,1,980.63,0,980.63,Cash,New York
+b53c34a2-b8ba-4a75-a8b2-ade7211e4ea7,2024-05-26,8892,63,Male,Silver,Blender,Home & Kitchen,9,729.62,10,5909.92,Credit Card,Los Angeles
+f181254c-fdb5-4971-9fc2-21a6d98b38bf,2024-04-02,3848,30,Non-Binary,Gold,Remote Car,Toys,10,589.05,10,5301.45,Cash,Miami
+c5008388-3bac-44b6-916a-8985cd24a692,2023-12-11,8508,66,Non-Binary,Regular,Puzzle,Toys,10,213.68,5,2029.96,Cash,New York
+2355966d-9bbf-45c9-be50-7bca2810b7f7,2023-02-18,7798,58,Non-Binary,Gold,Smartphone,Electronics,10,843.58,5,8014.01,Credit Card,Chicago
+cc343b42-d48f-415f-89f9-115f99505683,2024-02-24,2135,71,Male,Silver,Self-Help,Books,8,367.74,20,2353.54,Cash,Los Angeles
+7d67e0d5-d8b7-498b-bb7d-43b365fce3cb,2023-12-02,3102,26,Female,Platinum,Remote Car,Toys,10,844.79,0,8447.9,Cash,Chicago
+186133e6-a849-4b80-b31f-ad9e068ea427,2023-01-31,9848,44,Female,Regular,Smartwatch,Electronics,2,827.82,20,1324.51,Cash,Miami
+de3d54ba-51f8-4ff0-8958-fbc6fa79216e,2023-07-19,3726,21,Male,Regular,Jacket,Clothing,1,601.62,0,601.62,Credit Card,New York
+fbc9c336-518b-4685-90d2-1961f34c7e40,2024-02-16,3387,72,Non-Binary,Silver,Microwave,Home & Kitchen,7,705.19,10,4442.7,Cash,Los Angeles
+3db350b1-cfc5-4d4b-b928-f59ed619cc8c,2022-10-19,4346,37,Female,Gold,Vacuum Cleaner,Home & Kitchen,4,964.87,20,3087.58,Debit Card,Chicago
+c70745ad-4ef7-4609-8a95-b3212e1ce220,2023-03-06,3194,49,Non-Binary,Platinum,Vacuum Cleaner,Home & Kitchen,3,487.33,0,1461.99,Debit Card,New York
+fcc95216-6489-44e4-8ea7-5c9833f34f30,2022-07-19,8459,21,Non-Binary,Gold,Self-Help,Books,3,321.78,0,965.34,PayPal,New York
+6576088a-c1c3-4818-abd7-862c6610beef,2022-09-04,6774,72,Female,Silver,Doll,Toys,4,17.52,10,63.07,Credit Card,Miami
+4b877d8b-d74d-4a01-bea7-03913ffcf469,2023-01-08,1101,62,Female,Platinum,Non-Fiction,Books,7,825.62,5,5490.37,PayPal,Houston
+e683b720-a532-4ce2-9188-bebeddb1a4c2,2023-03-27,9683,59,Male,Gold,Yoga Mat,Sports,3,761.04,0,2283.12,Debit Card,New York
+df27ce0b-1ffa-4799-bbaf-308fe17248e9,2023-08-27,9651,35,Non-Binary,Gold,Laptop,Electronics,8,171.04,15,1163.07,Debit Card,Chicago
+27068d80-56eb-41fe-8e5b-25df158aacd2,2023-02-03,7445,71,Male,Gold,Microwave,Home & Kitchen,6,660.1,10,3564.54,PayPal,Houston
+dee32bfc-674b-4dc2-a7a4-56c92cb78db3,2024-07-30,2018,50,Male,Platinum,Jacket,Clothing,2,544.24,5,1034.06,Credit Card,New York
+eb31084c-4efc-4666-8cbb-465d285110e4,2023-01-23,6002,60,Non-Binary,Gold,Microwave,Home & Kitchen,9,909.83,20,6550.78,Credit Card,Chicago
+49c60a91-3ff3-4210-ae4a-7cd460c5eb81,2022-11-07,4763,18,Female,Silver,Jeans,Clothing,3,630.76,20,1513.82,PayPal,Los Angeles
+986bd71e-d074-4a7f-ab99-087ae29189f2,2022-04-20,4086,68,Non-Binary,Silver,Jacket,Clothing,3,997.26,10,2692.6,PayPal,Miami
+3c80a6da-fa5d-42b3-98ad-0a2b9225213d,2023-09-26,4962,60,Male,Regular,Sneakers,Clothing,3,523.99,0,1571.97,Cash,Los Angeles
+8b898a53-6f2d-4822-a5fc-6942c48878a5,2024-02-05,2396,34,Female,Platinum,Football,Sports,10,50.82,5,482.79,PayPal,Chicago
+07a3341f-cf2e-487a-8ffa-89d8a2f984ff,2023-02-05,4597,20,Non-Binary,Regular,Self-Help,Books,9,638.26,0,5744.34,Cash,Los Angeles
+b6c827fb-1d21-4099-90e4-d0d4bfcf6f52,2022-09-25,9010,53,Female,Regular,Dumbbells,Sports,1,902.38,15,767.02,Cash,Chicago
+20774701-e25d-4898-910a-09de77d27c4c,2022-04-21,3098,21,Male,Silver,Non-Fiction,Books,8,895.61,15,6090.15,Debit Card,New York
+65a2fda1-e866-4526-968c-985bfc23473b,2024-02-17,7299,68,Female,Platinum,Laptop,Electronics,3,792.88,0,2378.64,Debit Card,New York
+30f25938-441e-4d5c-b114-279048275b08,2023-03-25,6702,44,Male,Regular,Laptop,Electronics,7,433.98,0,3037.86,Credit Card,New York
+2bd3a5e8-f9be-45f2-8cbb-570b6e1b5397,2022-09-10,9110,60,Non-Binary,Platinum,Dumbbells,Sports,5,535.21,5,2542.25,Debit Card,Chicago
+d7ea7a4d-ed43-4779-9f8a-eeb40f54caeb,2022-08-11,6308,65,Non-Binary,Silver,Jacket,Clothing,2,954.85,0,1909.7,Debit Card,New York
+3a0f02e4-64b0-49b5-a132-6910c743d422,2023-04-29,9424,31,Non-Binary,Gold,Smartphone,Electronics,9,435.4,15,3330.81,Cash,New York
+7ddc4db5-a6c6-4688-b35c-79a4fe172ee9,2024-03-02,3669,30,Male,Platinum,Vacuum Cleaner,Home & Kitchen,3,178.26,15,454.56,Credit Card,Miami
+44c30de9-70a4-4d1c-a1a2-a74bd59cc440,2024-01-08,4152,53,Male,Silver,T-shirt,Clothing,9,16.05,20,115.56,Debit Card,Houston
+d6e8ebeb-fc61-4327-8b56-88723b04381b,2022-05-03,5037,41,Female,Gold,Non-Fiction,Books,6,380.02,10,2052.11,PayPal,Chicago
+7a1b90d6-661f-4bd9-9976-ef9fdf5899f3,2024-03-13,1523,18,Male,Silver,Smartwatch,Electronics,10,396.71,15,3372.03,Cash,Chicago
+54c57fd2-7d99-4598-ab25-b2fa33ea38ab,2022-09-06,8808,73,Female,Gold,T-shirt,Clothing,3,242.72,20,582.53,PayPal,Miami
+1d686d62-e77b-4c73-bd30-b343513941f4,2023-09-18,3455,38,Female,Platinum,Microwave,Home & Kitchen,1,319.02,15,271.17,PayPal,New York
+f394d67e-1308-4cbd-aa28-09fcb941c99e,2023-06-08,6149,39,Female,Regular,Laptop,Electronics,9,809.51,0,7285.59,Cash,New York
+730b69ec-224c-4b1d-9b3c-dc867a80aef4,2022-03-30,4621,25,Male,Silver,Yoga Mat,Sports,4,88.35,15,300.39,Credit Card,New York
+a9da7bc6-89d9-4f97-b3c7-d2d0d60526c9,2022-07-02,9695,51,Female,Silver,Dumbbells,Sports,6,877.94,10,4740.88,Debit Card,New York
+430735db-2e1a-4f5c-a237-63b79b6f84ec,2024-05-18,6117,19,Male,Platinum,T-shirt,Clothing,6,182.72,15,931.87,Debit Card,Chicago
+ba82b3fb-d71d-464f-8901-8b8f270d2579,2022-09-23,4609,30,Male,Silver,Smartphone,Electronics,4,330.64,10,1190.3,PayPal,New York
+6d8de00d-a044-4356-a2a2-477028784d85,2025-01-10,3474,69,Female,Silver,Blender,Home & Kitchen,5,746.27,5,3544.78,Cash,Chicago
+61ab4c8b-330d-41e8-9360-f5619bf91263,2023-09-15,1031,68,Non-Binary,Gold,Doll,Toys,10,198.71,10,1788.39,Cash,Miami
+c26309d4-825a-432f-8a49-6aa0c8fdc5c1,2023-11-10,2464,74,Female,Silver,Fiction,Books,9,449.11,10,3637.79,Cash,Miami
+01117c27-f14b-419c-84bf-94bd4e3005b8,2023-10-04,8859,62,Non-Binary,Regular,Headphones,Electronics,5,894.87,10,4026.92,Credit Card,Houston
+17aaec62-dc97-4ebd-9235-a7d74cb38bb5,2023-10-09,2419,75,Male,Regular,Smartwatch,Electronics,4,629.83,0,2519.32,Credit Card,Houston
+59da5fcb-64b1-42c3-9578-92ee85122384,2024-12-14,4313,25,Non-Binary,Gold,Doll,Toys,1,367.37,15,312.26,Credit Card,Los Angeles
+f2a03bf1-17d0-4e18-979c-11212a82c9ca,2024-11-26,6911,42,Male,Platinum,Jeans,Clothing,1,82.31,5,78.19,Credit Card,New York
+a32f20ba-c652-4bf0-96db-76ebd92d0dbe,2024-07-25,7319,43,Male,Regular,Fiction,Books,9,550.11,15,4208.34,Credit Card,New York
+bcc7d866-7d8c-43e3-9c80-186f3e7fef97,2023-05-01,8549,27,Female,Platinum,Headphones,Electronics,2,815.95,15,1387.12,Debit Card,Los Angeles
+67c288e0-55f3-4ba3-a74b-8dcdf0af17a1,2025-02-14,6510,28,Non-Binary,Silver,Puzzle,Toys,5,29.98,20,119.92,Debit Card,Houston
+c2600f8c-5313-48ab-9bf8-c0fc5c3905b4,2024-10-17,7958,70,Non-Binary,Regular,Dumbbells,Sports,9,234.01,20,1684.87,Debit Card,Miami
+357595a2-1418-4532-a80f-5633446fcb85,2024-08-24,3406,27,Female,Silver,Fiction,Books,9,599.74,5,5127.78,PayPal,Los Angeles
+754d90d2-ca38-457a-9fca-2f1105762232,2025-03-06,2529,58,Female,Gold,Sneakers,Clothing,9,160.95,15,1231.27,Cash,Miami
+e076da56-3ee3-46c2-ae9d-f69cdafdfc23,2024-01-02,4724,71,Non-Binary,Platinum,Vacuum Cleaner,Home & Kitchen,4,535.74,20,1714.37,Debit Card,New York
+9e30e9cf-fc8e-41b0-9f0d-af50fd9aba74,2023-10-03,9401,60,Female,Regular,Headphones,Electronics,3,690.63,20,1657.51,Cash,Chicago
+09bcec32-68c8-42b1-9c37-ab5a2c68fa54,2024-06-01,4522,46,Female,Platinum,Lego Set,Toys,2,357.53,20,572.05,Credit Card,Chicago
+698d7b4c-97b8-4461-a91e-4d473eb119ec,2023-05-10,1823,66,Male,Gold,T-shirt,Clothing,10,943.84,0,9438.4,Cash,Miami
+f774600c-3d29-42a2-893b-32a185072737,2024-07-10,5169,24,Male,Regular,Coffee Maker,Home & Kitchen,6,105.41,20,505.97,Cash,Miami
+75f46197-f0dc-4a00-aa7b-ef77aba308f9,2024-06-16,1416,64,Female,Platinum,Vacuum Cleaner,Home & Kitchen,6,995.22,15,5075.62,PayPal,Houston
+947b252d-35ca-4af1-b4f0-18daac1dc207,2023-01-22,4082,29,Non-Binary,Regular,Football,Sports,3,619.89,5,1766.69,Credit Card,Los Angeles
+6cab29c6-60c5-4143-8053-953151ccd9bc,2024-12-23,7171,66,Male,Gold,Smartphone,Electronics,7,738.75,10,4654.12,PayPal,Chicago
+e37fff8c-3ee0-4f9b-ac3a-075120c71b8a,2023-08-01,9577,54,Non-Binary,Silver,Sneakers,Clothing,9,320.1,10,2592.81,Cash,New York
+19826117-580d-47c2-84f0-0f1e6ea20c99,2024-11-09,4088,57,Female,Regular,Sneakers,Clothing,1,188.94,20,151.15,Cash,Miami
+ab5a7a04-81b4-40ba-a38d-db34763d4922,2024-11-26,5415,64,Female,Regular,Remote Car,Toys,10,807.78,0,8077.8,PayPal,Chicago
+9c957dd6-0663-4919-82b7-c501ffdc98eb,2024-05-22,8575,61,Male,Regular,Jeans,Clothing,6,77.77,0,466.62,PayPal,Chicago
+fe7c3711-4497-4a87-be6b-546a21b12ad9,2024-10-05,4676,55,Female,Regular,Football,Sports,4,583.2,15,1982.88,PayPal,Miami
+37d7edd2-2b73-4b05-8002-9324cac89344,2023-09-12,9188,46,Male,Gold,Non-Fiction,Books,5,810.95,0,4054.75,Cash,New York
+788681e7-076d-4de1-a473-f4bed0a37977,2023-09-28,2994,68,Non-Binary,Gold,Science,Books,8,953.26,15,6482.17,Debit Card,Chicago
+962d3c8f-4561-44d1-ba5a-55a1dc7dabca,2022-10-12,2864,59,Female,Platinum,Vacuum Cleaner,Home & Kitchen,8,347.71,5,2642.6,Debit Card,Miami
+0ce4bd26-46d3-45ba-9386-c60b8026d0a4,2024-11-26,4909,33,Male,Silver,Lego Set,Toys,5,222.57,15,945.92,Debit Card,Miami
+617ad5c2-5ce5-419a-a255-132bfbd03487,2025-01-13,1507,47,Male,Silver,Blender,Home & Kitchen,5,659.15,10,2966.18,Credit Card,New York
+9a49feaf-a487-4bc0-8e17-ead3f9d14ec4,2023-08-14,6944,36,Non-Binary,Gold,Smartwatch,Electronics,10,280.8,10,2527.2,Debit Card,Houston
+5b0f6cf1-7ad7-4f81-acef-c5ee530a0dd6,2022-10-21,5740,75,Non-Binary,Silver,Vacuum Cleaner,Home & Kitchen,2,981.18,10,1766.12,Credit Card,Chicago
+88c55fd2-d2aa-48dc-9556-95229c8224c0,2024-05-24,4835,20,Male,Regular,Self-Help,Books,6,227.66,15,1161.07,Cash,Los Angeles
+a1e265e1-22f4-48a7-8349-8c3214e6a267,2024-12-29,8774,43,Non-Binary,Platinum,Coffee Maker,Home & Kitchen,5,866.92,0,4334.6,Credit Card,Chicago
+a2cba4d0-b3ec-4d3f-bc19-9e725ec34ecb,2024-07-17,8388,60,Female,Regular,Laptop,Electronics,1,21.79,5,20.7,PayPal,Los Angeles
+ba19d7a5-1abf-4d5b-8c43-f741045dee6c,2023-06-27,2917,37,Non-Binary,Platinum,Vacuum Cleaner,Home & Kitchen,1,650.42,5,617.9,PayPal,Miami
+15bc56f0-114b-42c2-8c39-c55f7c7e6308,2022-08-25,6998,27,Non-Binary,Silver,Sneakers,Clothing,7,882.36,20,4941.22,Debit Card,New York
+808e1419-fc96-4921-9608-46ab21e5bf9e,2023-12-19,1139,55,Male,Gold,Dumbbells,Sports,3,747.13,10,2017.25,Cash,Miami
+c573b45e-aa80-4c06-8954-2497bfa51d9c,2023-02-12,7501,59,Non-Binary,Regular,T-shirt,Clothing,9,258.3,15,1976.0,PayPal,Houston
+d92aa1ea-df4d-419e-a329-71beeb8e4221,2024-06-10,7241,34,Female,Regular,Fiction,Books,10,62.67,15,532.7,Debit Card,Miami
+6c62ce9c-f12a-4228-b660-f4a62bd85fda,2022-11-28,4489,32,Non-Binary,Silver,Self-Help,Books,5,476.31,10,2143.4,PayPal,New York
+cebeb2e8-6439-4f04-ad2a-e4cce1eb3d2d,2022-08-12,5305,20,Female,Regular,Non-Fiction,Books,10,162.82,0,1628.2,Credit Card,Los Angeles
+0503b83d-e7de-4bf4-9485-27c48cf887c3,2023-05-29,1805,43,Non-Binary,Gold,Science,Books,9,704.54,15,5389.73,Cash,New York
+18d87d05-0609-46cd-9a1d-3cb751eee8af,2024-11-08,7043,28,Female,Platinum,Non-Fiction,Books,8,801.32,0,6410.56,PayPal,New York
+db526dfd-8b73-4027-af4c-ca97106254a6,2022-05-12,1854,19,Male,Regular,Coffee Maker,Home & Kitchen,9,676.23,10,5477.46,Debit Card,New York
+64eaae3d-8080-467c-b7e7-02b86d8b45f2,2023-12-17,5067,18,Male,Platinum,Sneakers,Clothing,7,329.38,5,2190.38,Cash,Chicago
+11e8e2f1-dac0-403d-ae82-76592751ba72,2022-04-11,8805,21,Non-Binary,Platinum,Self-Help,Books,5,43.97,0,219.85,Debit Card,Miami
+005aa32d-f1e4-4d29-85d1-e07af30ae160,2024-04-13,5421,71,Female,Gold,Sneakers,Clothing,7,143.99,5,957.53,Debit Card,Chicago
+4e279e98-bdec-4e3f-83d2-8674ccdd5d26,2023-10-21,4103,24,Male,Platinum,Fiction,Books,4,47.21,20,151.07,PayPal,Chicago
+9696cb70-ddd3-4c97-9819-0f7ced05175f,2023-05-17,4748,61,Male,Gold,Fiction,Books,6,279.06,10,1506.92,Debit Card,New York
+609e88d2-a4c0-4f72-b69d-b6215de45964,2024-05-29,1310,37,Female,Regular,Yoga Mat,Sports,8,987.43,20,6319.55,Debit Card,New York
+7f9227af-5a30-4d60-b590-a6c54f81b81b,2022-04-18,6438,51,Non-Binary,Regular,Tennis Racket,Sports,4,980.38,0,3921.52,Debit Card,Miami
+06af0b45-1d75-47b5-a965-c0f3ccef6d3b,2024-08-12,5642,19,Male,Silver,Doll,Toys,1,45.18,5,42.92,Credit Card,Chicago
+ca6e8eb5-1ee3-4e6c-8a40-c391a51a827f,2023-09-24,2289,31,Male,Silver,Jacket,Clothing,6,640.29,15,3265.48,Credit Card,Chicago
+0a0e5ac4-5670-4c86-afb3-150c35592b10,2024-03-22,6679,41,Male,Regular,Blender,Home & Kitchen,8,551.69,20,3530.82,Cash,New York
+5cd2ce5e-1bb0-4797-8d5c-b50cab8fd326,2024-03-17,2932,49,Female,Regular,T-shirt,Clothing,4,404.34,0,1617.36,Debit Card,Houston
+9cea012b-cdcb-4134-a373-a731f542252a,2022-12-09,3610,35,Female,Regular,Self-Help,Books,5,495.15,0,2475.75,PayPal,Miami
+c39d0b97-b44e-4cb4-9ae3-448fe90b7cec,2024-03-14,2782,23,Female,Silver,Fiction,Books,2,940.31,15,1598.53,Cash,Chicago
+51600837-37b0-4fee-a2b3-088dfdb53ccb,2022-12-10,2461,36,Non-Binary,Gold,Lego Set,Toys,1,888.22,20,710.58,Cash,Los Angeles
+c882b929-e9c2-4923-ad34-1ea16cdb3019,2025-02-20,4659,43,Female,Gold,Blender,Home & Kitchen,8,195.51,15,1329.47,Debit Card,Miami
+73a87afb-c001-4d22-aa8f-d9370212e559,2023-06-22,4733,26,Non-Binary,Platinum,Laptop,Electronics,9,846.01,15,6471.98,Credit Card,Houston
+60a1e685-ae10-438f-a4b0-1db89b8413da,2022-05-02,8805,67,Male,Platinum,Headphones,Electronics,7,581.27,15,3458.56,Cash,Miami
+66fb6760-6bc3-4e3e-b4eb-b071bae551ad,2024-12-03,4166,22,Male,Platinum,Jacket,Clothing,10,68.05,0,680.5,Cash,New York
+ab924c6a-7ad9-4202-8f74-66af4a2d9c9d,2023-01-24,8714,68,Male,Silver,Microwave,Home & Kitchen,10,514.79,10,4633.11,Cash,New York
+d6362b44-0279-4a9e-98b5-e989c39d7098,2024-10-10,9715,38,Female,Regular,Headphones,Electronics,7,386.86,20,2166.42,Credit Card,Chicago
+75ae165f-9b92-4213-be2f-48adc1971715,2023-01-21,6113,52,Female,Silver,Non-Fiction,Books,5,310.58,15,1319.96,Credit Card,Chicago
+d488396f-38d0-4e9d-8594-9f10207fd06c,2023-05-16,4212,61,Female,Regular,Sneakers,Clothing,1,783.29,0,783.29,PayPal,Chicago
+7ec5aa59-694b-4043-ba5f-78b0c3e7c139,2024-07-27,1431,25,Male,Gold,Science,Books,6,637.22,15,3249.82,Cash,Houston
+e4d3005f-6510-4ef4-a4fb-6f491a4d013e,2022-11-05,5750,48,Female,Silver,Dumbbells,Sports,3,480.8,10,1298.16,Credit Card,Los Angeles
+bc68fee3-5a0b-4026-b230-e937d678c432,2025-01-02,6315,50,Male,Platinum,Blender,Home & Kitchen,3,868.45,0,2605.35,Credit Card,Chicago
+273711e2-2e8d-483b-9ea6-c0f1c206fac1,2023-09-16,7989,19,Female,Gold,Tennis Racket,Sports,9,6.25,10,50.62,Cash,New York
+1950aedd-df6f-4ca7-849e-3401ee6bf45b,2024-05-01,2491,67,Non-Binary,Gold,Self-Help,Books,7,216.53,15,1288.35,Debit Card,Houston
+59784b57-cdbd-4632-9918-7939074c2368,2023-07-21,7347,26,Female,Silver,Vacuum Cleaner,Home & Kitchen,10,231.57,0,2315.7,Credit Card,Miami
+acdbee26-6706-4612-9e27-520e6760b33c,2023-09-06,2030,27,Male,Silver,Blender,Home & Kitchen,7,150.92,0,1056.44,Credit Card,Los Angeles
+6e844ea2-0747-425e-ad1e-bc392a452162,2024-07-24,5620,53,Female,Gold,Remote Car,Toys,6,161.67,5,921.52,Cash,Chicago
+5873983e-4dd3-49b2-8217-50ae915a9b9f,2023-04-23,9657,29,Male,Platinum,Self-Help,Books,8,59.93,20,383.55,PayPal,Miami
+fe9fa621-ec62-4461-85be-fe223b3931b1,2022-05-04,5022,20,Female,Gold,Jeans,Clothing,3,45.48,15,115.97,PayPal,New York
+926eaa58-91b3-4659-aedc-7a05a33cae54,2022-08-27,5335,75,Male,Platinum,Microwave,Home & Kitchen,10,887.63,10,7988.67,Debit Card,Miami
+29a96643-76df-4962-bb16-ceb71140dc12,2024-08-16,9688,74,Female,Regular,Doll,Toys,1,717.65,15,610.0,Credit Card,Los Angeles
+f9ec6430-6e20-4b30-97c8-5f03e33b0d8d,2023-07-02,6953,74,Male,Regular,Sneakers,Clothing,8,686.88,15,4670.78,Debit Card,Houston
+a6940c4b-4400-489d-8cb3-9bc4218b9997,2022-09-03,6253,46,Male,Platinum,Dumbbells,Sports,1,28.25,20,22.6,Debit Card,Miami
+c5303568-2f7e-41b1-86c7-2178bc607636,2024-04-03,1238,67,Male,Silver,Sneakers,Clothing,2,608.22,0,1216.44,Cash,Chicago
+cd21176d-53e6-4120-a3f2-f2a7f5328d59,2023-01-08,5916,57,Male,Platinum,Jacket,Clothing,5,922.73,0,4613.65,Credit Card,Miami
+8d264e66-275d-4f11-81b9-dccdb05ff32f,2022-12-12,9653,44,Male,Platinum,Non-Fiction,Books,2,585.36,20,936.58,PayPal,Miami
+ea2dc587-6247-4a7c-a2b3-a9b87455d438,2024-04-05,6725,37,Non-Binary,Gold,Lego Set,Toys,3,761.23,15,1941.14,PayPal,New York
+d80a0bd8-1026-4ee6-9b97-b81029f05ddd,2025-01-10,6974,24,Non-Binary,Regular,T-shirt,Clothing,5,701.22,15,2980.19,PayPal,Los Angeles
+c69c01e1-299e-4687-8de1-627ca6312bb5,2022-07-02,6398,32,Non-Binary,Gold,Tennis Racket,Sports,4,755.52,5,2870.98,Debit Card,Chicago
+7a064e14-13b2-40d5-a17b-b3461a04020c,2022-09-06,5312,23,Male,Gold,Coffee Maker,Home & Kitchen,9,839.95,5,7181.57,Credit Card,Houston
+d802ca74-6092-4821-9db2-081d5470bf35,2023-11-12,7591,74,Female,Silver,Jacket,Clothing,2,125.42,15,213.21,Cash,New York
+56b93d5a-ac3e-434b-a3f8-736d9f3df265,2025-02-21,8567,22,Male,Regular,Science,Books,7,135.19,0,946.33,PayPal,Los Angeles
+2597c531-c3c6-4968-af6a-0f1715a3fecd,2024-04-24,1084,22,Female,Regular,Self-Help,Books,10,269.02,20,2152.16,Credit Card,New York
+fd11929a-2c0d-4066-8006-b9f4f07d266a,2024-03-19,1163,75,Non-Binary,Gold,Football,Sports,6,664.79,10,3589.87,PayPal,New York
+9d688417-d0b7-4252-9402-146e103c8270,2024-07-25,3531,53,Male,Silver,T-shirt,Clothing,9,296.96,10,2405.38,PayPal,Houston
+3bd9fc5c-4b58-4150-9dc5-5a63e2584f74,2024-11-21,1034,18,Non-Binary,Silver,Blender,Home & Kitchen,8,152.85,15,1039.38,Cash,Chicago
+aa066f3d-cd68-4324-9471-f58b91ee8dac,2024-09-12,7317,64,Non-Binary,Silver,Puzzle,Toys,7,489.24,15,2910.98,Debit Card,New York
+8b02bc7b-4766-4117-92ca-9661206c7824,2023-12-06,8851,41,Male,Silver,Puzzle,Toys,1,709.92,0,709.92,Debit Card,Miami
+606da00c-ba66-4f9f-85dc-be32afe6a0f8,2022-10-08,7578,52,Non-Binary,Platinum,Coffee Maker,Home & Kitchen,8,17.82,15,121.18,Credit Card,Los Angeles
+aab58f51-1e6d-43f8-9c0c-e36f8d6b691c,2022-05-15,2188,20,Non-Binary,Platinum,Coffee Maker,Home & Kitchen,9,716.19,15,5478.85,Debit Card,Chicago
+001bd8ad-668e-42bf-b7b7-d0c26eb33a0a,2023-10-27,6586,74,Male,Silver,Blender,Home & Kitchen,2,693.61,5,1317.86,Debit Card,Los Angeles
+adf63719-268d-4a90-aa6b-a6d99f2e9990,2023-01-22,1880,33,Non-Binary,Silver,Football,Sports,7,338.75,5,2252.69,PayPal,Miami
+6fc0245b-d020-439a-bdd2-90e46894e528,2023-08-16,9244,65,Non-Binary,Platinum,T-shirt,Clothing,7,230.59,15,1372.01,Cash,Miami
+0879e35b-2226-4bf2-b72f-c9a71411ca35,2022-09-15,5280,28,Female,Platinum,Self-Help,Books,10,312.62,10,2813.58,Cash,Los Angeles
+e525a491-819d-4ab8-bf74-ae2ba1889bbb,2024-12-30,7920,63,Male,Gold,Tennis Racket,Sports,2,401.9,15,683.23,Credit Card,Chicago
+ed9b9f34-954c-4f42-b286-25998eeedd7d,2023-01-29,9960,33,Male,Gold,Smartphone,Electronics,9,80.95,15,619.27,PayPal,Chicago
+dae73609-5af4-411c-b503-8ee98a6cec53,2023-01-08,9381,49,Female,Gold,Lego Set,Toys,9,847.16,5,7243.22,Cash,Houston
+b3fd1ccf-7601-41ef-b31c-6f9b315ac94f,2022-11-18,2808,45,Non-Binary,Silver,Blender,Home & Kitchen,5,652.9,20,2611.6,Cash,Los Angeles
+63e75e30-8cf0-4821-b454-dfa3d87261da,2024-02-23,4662,39,Male,Silver,Remote Car,Toys,4,668.75,10,2407.5,PayPal,Miami
+b7395c9a-4a29-487c-9a27-29695004c68c,2022-10-27,6402,58,Male,Platinum,Lego Set,Toys,5,765.71,15,3254.27,Cash,Miami
+8d15ce8e-e76a-41cc-985d-29f595ed4237,2022-10-30,3301,34,Male,Platinum,Yoga Mat,Sports,7,748.37,0,5238.59,Debit Card,Chicago
+55e44f83-bac6-4e9b-a6cf-9246a1af35c2,2024-08-20,2483,57,Male,Regular,Yoga Mat,Sports,8,157.1,10,1131.12,Debit Card,Houston
+9843107a-91a7-49ff-b45f-c18cd2e7c950,2024-04-17,1088,31,Male,Gold,Puzzle,Toys,4,530.1,5,2014.38,Cash,New York
+f3369b12-8536-42d8-a403-b4a2d483e168,2023-10-02,3038,62,Non-Binary,Platinum,Doll,Toys,9,446.76,0,4020.84,Debit Card,Miami
+9ecf1b99-96cd-4ca9-a4f2-71f750bf6269,2022-11-06,7234,68,Female,Gold,Microwave,Home & Kitchen,1,907.07,5,861.72,PayPal,Chicago
+e88d38c3-b413-4d9e-8f57-fd395a6a374a,2023-06-08,3073,51,Non-Binary,Regular,Non-Fiction,Books,8,341.13,10,2456.14,Debit Card,Los Angeles
+c7d5ec9e-6c8c-44f9-afc1-7661cbbf3039,2022-12-09,6085,52,Non-Binary,Gold,Self-Help,Books,1,705.95,0,705.95,PayPal,Miami
+9f5dac34-73d1-47e5-9899-1c3cace4a7d3,2022-08-02,5751,57,Non-Binary,Gold,Coffee Maker,Home & Kitchen,6,622.51,5,3548.31,PayPal,Houston
+460ad1b6-ed52-4d0f-bf9e-3827154f210d,2024-10-01,7447,56,Non-Binary,Platinum,Remote Car,Toys,10,670.63,5,6370.98,Cash,Miami
+23c3bc1a-0993-4356-ae91-93ea54b73d4a,2025-02-22,4286,39,Non-Binary,Platinum,Remote Car,Toys,4,636.45,20,2036.64,Cash,Miami
+b49733d2-e6ec-4b31-9e1e-0117b38e0563,2023-12-27,1356,56,Female,Gold,Science,Books,8,564.94,10,4067.57,Cash,Houston
+59d176de-9934-4081-999a-36f8117df77e,2024-09-05,8229,18,Male,Gold,Remote Car,Toys,5,402.85,15,1712.11,Credit Card,Miami
+c90c2e49-c7ae-4d65-8214-2040e56ef61c,2024-10-23,6072,65,Non-Binary,Silver,Non-Fiction,Books,1,572.33,5,543.71,Credit Card,Chicago
+1a84bbe2-38a1-41b0-be0c-12c78b365b43,2022-10-28,1933,20,Female,Silver,Jacket,Clothing,9,422.86,0,3805.74,PayPal,Houston
+1644f1a6-fc1a-4afa-81a5-7a71bc9fc557,2023-05-07,9170,29,Non-Binary,Regular,Science,Books,1,849.12,10,764.21,PayPal,Miami
+dd81b4f9-2eef-40a9-ae88-a6b28dc81d51,2023-06-25,9874,25,Male,Regular,T-shirt,Clothing,5,803.08,20,3212.32,PayPal,Miami
+247f15e4-677c-4d05-b3d8-632b8c448c4f,2024-11-16,8347,38,Male,Silver,T-shirt,Clothing,5,675.96,10,3041.82,Debit Card,Chicago
+2a5d0d73-3ed6-4571-900c-69bebca19d36,2023-05-24,8695,24,Female,Gold,Yoga Mat,Sports,2,869.54,0,1739.08,Credit Card,Miami
+4014e9fa-f517-45a1-a85c-9a5e69780db7,2023-05-03,1790,59,Non-Binary,Silver,Jeans,Clothing,10,577.31,0,5773.1,Credit Card,Houston
+b51ff82e-0632-4e4d-a024-f16391eddf55,2022-11-14,9226,39,Non-Binary,Platinum,Headphones,Electronics,1,435.29,15,370.0,Debit Card,Los Angeles
+95ee6b59-74db-46e5-bad4-8685a42a9f50,2022-06-22,6982,50,Male,Silver,Laptop,Electronics,10,495.81,10,4462.29,PayPal,Houston
+e5bb5ad4-df22-4897-9220-d7f1220692ce,2022-04-08,6585,59,Female,Silver,Football,Sports,4,478.55,0,1914.2,Debit Card,Los Angeles
+d52838d3-1194-441c-8b7a-3037158fc68f,2024-10-04,8685,59,Male,Silver,Football,Sports,8,20.19,0,161.52,Debit Card,Chicago
+7eb71369-db1b-4a60-8c16-0811d56370c8,2024-02-21,2737,22,Non-Binary,Silver,Yoga Mat,Sports,9,326.39,5,2790.63,Credit Card,New York
+fd3f64d9-aeb4-4598-8d57-37302dbf0c48,2023-09-18,1752,32,Male,Gold,Yoga Mat,Sports,8,828.24,15,5632.03,PayPal,Chicago
+f6b131dc-8128-423b-8251-fc27f7fe1a53,2023-02-15,9213,68,Female,Gold,Laptop,Electronics,5,762.56,5,3622.16,Debit Card,Los Angeles
+91991877-bae1-431f-a6cc-3ff58b7469e6,2023-10-20,8596,50,Female,Regular,Tennis Racket,Sports,5,79.4,5,377.15,Cash,Houston
+042a4fcb-a0d7-4690-aad7-ea1e0efe1902,2022-05-26,5626,64,Male,Gold,Smartwatch,Electronics,3,177.12,0,531.36,Cash,Chicago
+14e1233a-b2bb-4d92-91dc-ea234a52e739,2023-06-11,9066,44,Female,Silver,Remote Car,Toys,10,87.04,15,739.84,Cash,New York
+86f73477-25d9-45a4-9f72-3b8e0a56df77,2025-01-29,4772,69,Male,Gold,Non-Fiction,Books,2,275.15,20,440.24,Cash,Los Angeles
+f5556316-57e6-4a18-9331-1bd6820b01a8,2024-04-07,9585,29,Non-Binary,Silver,Smartphone,Electronics,5,517.04,0,2585.2,Debit Card,New York
+03d61dad-6c27-4e6d-9725-4bae57cc8f15,2022-08-17,4711,73,Female,Silver,T-shirt,Clothing,6,207.85,10,1122.39,Debit Card,Houston
+31ad9f81-9105-46e0-9ad9-fcf9db409a73,2022-10-24,5313,69,Non-Binary,Platinum,Smartphone,Electronics,4,949.09,5,3606.54,Cash,Houston
+393f8d36-8f2c-4b38-a9e2-7de5d353da04,2023-04-02,4010,48,Non-Binary,Platinum,Jacket,Clothing,10,82.53,0,825.3,Debit Card,New York
+4a1ae8df-583d-463d-95b6-fd1d5379711f,2023-12-04,2006,71,Female,Silver,Headphones,Electronics,9,48.82,15,373.47,Credit Card,Chicago
+7e679dbd-8adf-45da-bb3c-6206525eddb5,2022-04-23,7490,25,Female,Gold,Yoga Mat,Sports,7,331.79,15,1974.15,PayPal,Los Angeles
+84eb9764-4574-437d-b096-f74f440f73d4,2022-09-16,3450,28,Female,Gold,Non-Fiction,Books,10,398.31,15,3385.63,Credit Card,Chicago
+90392a15-510e-4005-b626-8d47a149d297,2022-12-31,1831,55,Female,Silver,Lego Set,Toys,10,98.37,10,885.33,PayPal,Chicago
+857ea784-785d-4749-8eb2-d48ff475dc9b,2023-09-20,1372,26,Male,Regular,Yoga Mat,Sports,2,134.96,20,215.94,PayPal,Los Angeles
+4c9789f9-5ede-40b6-ab67-88a45f0d1c7b,2022-10-05,8689,55,Male,Regular,Self-Help,Books,4,619.25,0,2477.0,Cash,Houston
+a5f3c6cd-5531-4b42-afac-b02903b197d9,2024-01-29,3578,43,Female,Silver,Non-Fiction,Books,2,878.76,5,1669.64,Credit Card,New York
+e02ddad2-b513-4886-9b5b-2f9a8bbf1e6a,2022-06-10,7030,31,Non-Binary,Gold,Jacket,Clothing,6,748.55,0,4491.3,Debit Card,Los Angeles
+99dc911c-d41b-49fe-a0d3-8522f642e56c,2024-09-04,5350,24,Non-Binary,Regular,Jeans,Clothing,7,391.27,20,2191.11,PayPal,Houston
+acd933ea-9e99-45bd-9a6d-c12e0d09119a,2024-10-16,1328,55,Female,Gold,Lego Set,Toys,1,340.77,0,340.77,Credit Card,Houston
+05dcea9f-75c5-4f6c-bc24-5cfbe3ed707f,2023-08-21,3907,53,Female,Gold,Smartwatch,Electronics,1,386.38,0,386.38,Cash,Miami
+3abdb269-e075-4beb-8018-abfbc3a74e81,2022-07-27,2312,68,Male,Platinum,Doll,Toys,4,235.08,15,799.27,Cash,Los Angeles
+1e61023c-89ce-4193-8b04-5344943d435e,2024-03-04,3404,31,Male,Gold,Smartphone,Electronics,3,335.88,15,856.49,Cash,Los Angeles
+439394f3-9b8f-4f8d-93fe-f589ec9da44b,2023-02-07,4073,23,Male,Platinum,Football,Sports,8,416.24,20,2663.94,Cash,Los Angeles
+83e7e228-ea90-4e0d-b658-d162365d84dd,2024-05-29,2156,68,Male,Platinum,Coffee Maker,Home & Kitchen,4,751.11,15,2553.77,Cash,New York
+5c7c8b76-9e9a-4fc5-82c7-37738bf45837,2024-02-19,9826,35,Male,Regular,Non-Fiction,Books,5,901.76,5,4283.36,PayPal,New York
+d2f55a39-66be-4ae5-a344-9603578fc6da,2024-06-16,2837,53,Male,Gold,Smartwatch,Electronics,2,191.83,5,364.48,Credit Card,New York
+febe896e-b263-4049-8f52-1edf26ce7bfd,2025-03-05,1735,55,Female,Regular,Laptop,Electronics,1,196.37,15,166.91,Credit Card,Houston
+5ed4e960-902f-433e-be17-36f875337717,2022-08-10,5012,48,Female,Platinum,Blender,Home & Kitchen,10,522.48,10,4702.32,Debit Card,Houston
+4cba11e3-7b40-4da5-ab3c-f4d761bcbe4c,2024-12-05,6421,53,Female,Gold,Coffee Maker,Home & Kitchen,2,788.78,5,1498.68,Debit Card,Houston
+00d165a1-cf32-4fbe-9721-320c61903b51,2024-08-16,5294,30,Male,Regular,Lego Set,Toys,1,371.9,20,297.52,Credit Card,Houston
+e25154f4-de06-48b2-862e-cc36f8e3e25a,2023-09-07,4057,25,Male,Gold,Blender,Home & Kitchen,5,497.25,5,2361.94,Debit Card,Chicago
+e294f72e-4dbd-4a50-a383-d7e1516527b5,2023-06-27,3173,50,Female,Silver,T-shirt,Clothing,7,878.73,0,6151.11,PayPal,Houston
+a3b30048-9fdf-4d23-acc4-37111f0e4da8,2024-11-30,2307,65,Male,Silver,Smartwatch,Electronics,8,793.44,10,5712.77,Cash,Chicago
+4bed4be6-3b4b-49b4-affd-7d264a965edd,2025-02-26,9758,46,Non-Binary,Silver,Smartwatch,Electronics,2,602.62,15,1024.45,Credit Card,Houston
+7f69a6d9-ee77-45d8-8640-213859b4eb9e,2023-02-12,9252,21,Male,Platinum,Headphones,Electronics,7,805.1,15,4790.34,Debit Card,Chicago
+bd723eca-7828-424c-93ce-d7807367a5f8,2024-07-10,2177,62,Male,Regular,Laptop,Electronics,7,602.9,20,3376.24,PayPal,Miami
+265b445b-a9b6-4e2e-a220-535669ccb741,2024-08-07,2262,36,Female,Silver,Jeans,Clothing,5,160.14,10,720.63,Debit Card,Houston
+1ca9040b-1001-4f3b-a415-62a21701c28e,2024-05-25,7995,23,Non-Binary,Platinum,Doll,Toys,2,928.09,0,1856.18,PayPal,Houston
+b0739ac8-2707-48d6-9752-623447833071,2024-07-02,6303,53,Male,Platinum,T-shirt,Clothing,3,182.29,15,464.84,Cash,Los Angeles
+51d510cb-27ba-4a74-a96d-3e3bbf601f8a,2024-02-23,6086,20,Male,Platinum,Vacuum Cleaner,Home & Kitchen,10,321.66,15,2734.11,Cash,Houston
+b459416b-39de-442b-b622-95ef708c39ba,2022-04-05,9922,60,Non-Binary,Gold,Sneakers,Clothing,7,148.72,15,884.88,Debit Card,Los Angeles
+6d2b128e-f63c-46da-8154-2a563f17bf5d,2024-05-08,7943,19,Male,Regular,Jeans,Clothing,3,578.07,10,1560.79,Cash,Chicago
+ae9b70b0-8ce7-44a3-a114-83197d598bb6,2022-09-27,5320,30,Male,Regular,Science,Books,4,694.43,0,2777.72,PayPal,Miami
+02279dc6-597f-4cca-9f6f-e89a6db669e9,2022-05-11,6750,30,Non-Binary,Gold,Laptop,Electronics,7,622.54,15,3704.11,Cash,Chicago
+3fac027f-58cc-4c10-ae41-e32d16dbf345,2023-08-06,4569,24,Female,Silver,Headphones,Electronics,3,196.57,10,530.74,Credit Card,Houston
+42d5b3c0-0c16-45f3-a590-d0a1c049ae83,2023-08-06,8416,62,Female,Silver,Puzzle,Toys,2,744.46,15,1265.58,Credit Card,Chicago
+28319018-a456-41ff-867b-fad00b2179c8,2024-11-17,4690,55,Male,Regular,Smartphone,Electronics,10,94.74,0,947.4,PayPal,New York
+b4921606-dfca-4518-acaa-12ee36e53e1a,2024-07-09,9582,42,Non-Binary,Silver,Yoga Mat,Sports,7,493.76,10,3110.69,PayPal,Chicago
+e5c5a031-150e-4845-8ff5-c4d3f19d4079,2023-02-16,2010,22,Male,Gold,Sneakers,Clothing,1,958.97,10,863.07,Credit Card,Chicago
+7f03e861-b834-4c00-ae0f-c8dedd9e05fc,2022-04-11,4623,40,Male,Regular,Science,Books,3,944.61,15,2408.76,Credit Card,New York
+c2242282-cc35-4f10-8568-486fa09bb4bd,2022-11-01,6222,38,Female,Gold,Laptop,Electronics,8,671.49,15,4566.13,Cash,Chicago
+c03c2566-7aa4-4272-b103-0d1bf4eeeb1f,2024-04-03,4513,66,Male,Platinum,Jacket,Clothing,10,710.02,15,6035.17,Cash,Miami
+719b4b96-5b53-4efa-814c-87f2e9de0105,2024-05-20,7768,63,Non-Binary,Platinum,Jacket,Clothing,9,682.95,20,4917.24,Debit Card,Chicago
+148e5f1d-17f2-444d-8a5d-326f90598147,2022-07-14,7598,33,Female,Platinum,Tennis Racket,Sports,2,98.03,5,186.26,PayPal,Los Angeles
+46fed23b-f53d-4825-82ec-8526d86af70e,2024-10-20,9465,44,Male,Platinum,Headphones,Electronics,5,367.39,20,1469.56,PayPal,Miami
+dd9969ed-621d-496b-9e5c-ad81d8b9f42e,2023-03-15,8398,60,Male,Silver,Doll,Toys,4,319.46,10,1150.06,PayPal,Houston
+c6506dd1-7a68-442c-9c37-fa27a4b13b9c,2023-06-10,7243,62,Female,Platinum,Smartphone,Electronics,5,366.73,15,1558.6,Cash,Los Angeles
+da9f496f-e209-4c29-8b6b-9ef5b637e6e2,2023-09-06,2859,19,Female,Gold,Non-Fiction,Books,7,734.07,5,4881.57,PayPal,Chicago
+f3817b52-42e9-461c-a0aa-b8bfaa5611d3,2023-02-28,4241,18,Male,Gold,Football,Sports,2,880.39,10,1584.7,PayPal,New York
+e930bed6-98e6-4a9a-9846-88e2133bf2da,2023-03-13,1952,64,Non-Binary,Silver,Science,Books,4,440.61,5,1674.32,Debit Card,Houston
+641bec7d-3a9c-49b9-838d-ef12ae3dc44a,2024-07-23,2206,27,Female,Gold,Puzzle,Toys,7,447.75,20,2507.4,Credit Card,Los Angeles
+0657063b-5971-46a5-8692-0558f331d9e3,2022-03-29,5995,67,Male,Gold,Non-Fiction,Books,10,24.83,15,211.05,Cash,New York
+bac3a388-1675-42b6-b3f7-a9431ecf5cba,2023-10-23,4601,52,Non-Binary,Gold,Dumbbells,Sports,9,706.09,10,5719.33,Cash,Miami
+2a279b92-6aa1-4848-a6d4-d1dae747580b,2023-08-06,1157,18,Female,Gold,Tennis Racket,Sports,4,987.88,5,3753.94,PayPal,Houston
+903ce9de-b1ed-4558-a88e-bbbdc7d0bce3,2023-07-25,7590,62,Female,Platinum,Laptop,Electronics,2,729.34,10,1312.81,PayPal,Los Angeles
+8ebf4de7-5b4d-4d2d-af62-3ad9b32eb019,2023-02-17,6690,69,Male,Regular,Coffee Maker,Home & Kitchen,7,816.03,20,4569.77,Debit Card,Chicago
+c467285e-8edc-4bac-bc77-29391c26b1f0,2024-09-10,5171,32,Non-Binary,Gold,Headphones,Electronics,4,982.5,15,3340.5,Cash,Miami
+59a98115-ff20-4f7b-a912-45fe54d1473d,2023-05-18,9095,54,Female,Regular,Laptop,Electronics,4,572.37,0,2289.48,Debit Card,New York
+2a480d28-9080-4343-b4be-71ddb7f68c97,2022-11-05,4645,31,Male,Regular,Tennis Racket,Sports,6,294.58,10,1590.73,Credit Card,Miami
+99fd70ad-cd20-4f8d-9d1d-1fcfb2e3affd,2023-02-14,5929,41,Non-Binary,Silver,Tennis Racket,Sports,1,516.1,15,438.69,PayPal,Miami
+092329ba-6d5b-4a58-98fb-2d19a696f0ef,2022-12-06,5401,32,Male,Gold,Remote Car,Toys,1,621.45,5,590.38,Credit Card,New York
+0d161abe-7149-4d0a-9480-a55275f1ebc3,2023-03-08,2938,48,Female,Gold,T-shirt,Clothing,5,518.46,10,2333.07,Credit Card,Houston
+d76a4182-f8e8-487b-ae26-656a11fe9084,2024-08-31,2218,47,Male,Regular,T-shirt,Clothing,5,630.7,20,2522.8,Credit Card,New York
+16911f8c-c477-4b72-ae2b-8c60f99acb0d,2024-09-14,3083,74,Male,Regular,Football,Sports,10,52.25,10,470.25,PayPal,New York
+0ab4e9c3-be8c-4ffa-81a3-551f7091c072,2023-05-29,4836,22,Female,Silver,Science,Books,2,755.42,10,1359.76,Cash,Chicago
+b588b7d4-2bb7-4465-a5c7-3c8b2a246cb0,2023-06-12,5470,34,Male,Platinum,Science,Books,3,694.54,0,2083.62,Credit Card,Los Angeles
+941965ca-44bc-487f-94e5-69bdd4a03864,2022-07-22,3820,26,Non-Binary,Regular,Blender,Home & Kitchen,4,292.95,20,937.44,Cash,New York
+1328ca55-215f-412e-b7f7-b411b26fa90d,2024-02-09,7369,73,Female,Regular,Tennis Racket,Sports,4,87.46,15,297.36,Debit Card,Houston
+669aed29-e750-4990-8fc6-62c915d3e18d,2023-04-30,7535,31,Female,Regular,Lego Set,Toys,1,56.84,0,56.84,PayPal,Houston
+5b6ac317-2169-4852-98c7-d8ce3075c8d3,2022-06-10,7314,39,Female,Silver,Non-Fiction,Books,10,436.05,20,3488.4,Credit Card,Houston
+cfa36213-5dda-44c4-a479-453392535d6d,2023-10-22,1705,47,Male,Gold,Microwave,Home & Kitchen,6,890.73,10,4809.94,Credit Card,Los Angeles
+b6b3322f-e693-4a2e-8f03-2913962a07e3,2025-03-01,8978,45,Female,Gold,Yoga Mat,Sports,6,712.42,5,4060.79,Credit Card,Houston
+930bf274-3a23-45ae-b4b9-a0095922c534,2022-05-30,7667,74,Non-Binary,Silver,Vacuum Cleaner,Home & Kitchen,5,882.29,20,3529.16,Debit Card,New York
+c029a146-0f5d-40eb-a3c6-2b2709dc6219,2022-08-21,8470,31,Female,Gold,Tennis Racket,Sports,8,669.99,15,4555.93,Cash,Los Angeles
+76480d83-b2bf-482b-8a78-11f879aaaa88,2024-07-19,8059,29,Non-Binary,Silver,Laptop,Electronics,10,362.55,15,3081.67,Credit Card,Chicago
+7fb29e9a-2a70-4da1-ae18-57e2fb41175f,2022-05-02,7349,55,Male,Gold,Non-Fiction,Books,4,142.07,10,511.45,PayPal,New York
+8c8e99b1-3e71-450f-80c9-3a79093a00e1,2023-03-17,7197,26,Male,Regular,Football,Sports,2,893.96,15,1519.73,PayPal,Los Angeles
+0977db97-b6a9-486d-a020-3d1394c7dd18,2024-07-20,4835,65,Male,Regular,Yoga Mat,Sports,5,339.85,15,1444.36,Credit Card,New York
+bc8e7b50-61db-4695-bf78-74e2ac8737a4,2023-05-16,2280,45,Non-Binary,Silver,Remote Car,Toys,4,43.22,15,146.95,Credit Card,Miami
+09a2616e-6d41-42f0-9dc5-140b667a9915,2023-06-09,4716,50,Male,Silver,Football,Sports,9,77.93,15,596.16,PayPal,Houston
+b4494779-aeb6-48c0-b1e2-8046d4809f73,2023-03-15,7839,31,Female,Silver,Self-Help,Books,5,483.35,5,2295.91,Cash,New York
+ece3968f-44f3-4df5-8d3a-40cdafc27805,2022-06-12,7337,18,Non-Binary,Gold,Smartwatch,Electronics,3,205.52,10,554.9,Credit Card,Miami
+31b48481-73fa-4bd2-b455-d3c2187ce4fc,2022-04-08,8805,51,Female,Gold,Smartphone,Electronics,1,708.91,5,673.46,Debit Card,New York
+136fedbb-091a-498d-8d57-15c418db2a70,2022-08-29,7853,56,Female,Regular,Yoga Mat,Sports,10,257.06,5,2442.07,Debit Card,Chicago
+3d7e5e20-50df-4c43-9ea6-da238d51850e,2024-02-02,2231,56,Male,Silver,Microwave,Home & Kitchen,3,824.82,15,2103.29,Debit Card,Chicago
+d48af9f1-dd5d-450e-8768-aaec71d2d6f7,2024-10-16,5795,21,Female,Regular,Science,Books,4,406.31,20,1300.19,PayPal,Miami
+1cb51011-dcc9-4f5f-8444-515a04095ddd,2023-07-21,6612,19,Female,Platinum,Remote Car,Toys,1,22.68,20,18.14,Debit Card,New York
+79a7a30e-b17c-4d52-9a7b-4e270ae5877d,2024-12-23,7125,50,Female,Regular,Microwave,Home & Kitchen,6,654.48,5,3730.54,Cash,Los Angeles
+eae99205-530c-459b-8b3c-dda16a28f2ad,2023-07-10,9512,51,Female,Platinum,Dumbbells,Sports,4,145.02,10,522.07,Credit Card,Chicago
+498f5adc-b0eb-4caf-a95e-1c6d3fbc0d48,2023-02-16,3182,26,Female,Gold,Laptop,Electronics,8,969.69,5,7369.64,PayPal,Miami
+b2527a4f-acdb-4537-860f-1022bb950883,2024-10-28,1273,64,Female,Regular,Laptop,Electronics,5,921.25,0,4606.25,Debit Card,Chicago
+5f9a6761-d94a-4776-9dda-d949bee406a4,2022-09-12,9949,37,Female,Gold,Headphones,Electronics,10,952.0,10,8568.0,PayPal,Miami
+a997b514-599c-4e99-9e9e-4a80c8b3c6b8,2024-06-10,9654,29,Non-Binary,Silver,T-shirt,Clothing,7,102.95,15,612.55,Credit Card,Miami
+e04a9691-f2ad-42a6-994a-6f6c9a249d46,2025-02-15,2327,68,Non-Binary,Gold,Jeans,Clothing,10,36.3,20,290.4,PayPal,Los Angeles
+22248b13-7baa-4856-be20-5b4a7773f2ed,2023-07-28,2640,62,Male,Platinum,Laptop,Electronics,2,585.54,15,995.42,Credit Card,Houston
+a5a8005b-ac36-4c49-ad9f-b258600090bd,2025-02-27,6912,68,Non-Binary,Platinum,Remote Car,Toys,7,244.51,15,1454.83,PayPal,Los Angeles
+d5933926-7dbc-4d46-95f0-4039f7b993aa,2023-06-10,9814,73,Non-Binary,Platinum,Sneakers,Clothing,9,71.12,10,576.07,Debit Card,Los Angeles
+fed4cba1-4997-4caa-b9d4-2a871c3a09cc,2024-08-16,1975,42,Male,Regular,Self-Help,Books,6,996.07,15,5079.96,PayPal,Miami
+f5c3454a-955b-441c-b229-8b8c95a0efe0,2023-12-14,9342,55,Non-Binary,Silver,Jeans,Clothing,6,905.55,10,4889.97,Cash,Miami
+863bc963-c599-410f-baaf-ca402ac9404f,2023-01-19,5779,37,Non-Binary,Silver,Science,Books,2,228.94,20,366.3,PayPal,New York
+2718f14d-1241-441f-bad6-1e6930c89eaa,2023-08-18,1049,24,Male,Gold,Jacket,Clothing,5,271.68,0,1358.4,Cash,Los Angeles
+ebfa8ae9-1b67-4a18-bd75-a8e8f4596603,2024-12-28,8895,25,Male,Silver,Tennis Racket,Sports,10,424.54,10,3820.86,PayPal,Houston
+1a147f6e-3e98-4a7a-9cf8-390b0cce85e3,2023-09-02,8109,24,Male,Regular,Smartwatch,Electronics,5,714.85,5,3395.54,Debit Card,Miami
+47a001cc-72a1-4fb2-ac53-0c38f9ebf051,2023-08-24,8332,20,Female,Regular,Doll,Toys,4,939.1,10,3380.76,Credit Card,Los Angeles
+146d4878-3cc6-4c88-a54a-90204d185eda,2022-08-28,7722,33,Female,Gold,Science,Books,3,183.11,10,494.4,Debit Card,Houston
+58c14a79-07dc-4715-8e52-be528689bbba,2022-12-13,8889,75,Male,Silver,Laptop,Electronics,9,731.43,0,6582.87,Credit Card,Miami
+71a76028-29da-43e0-be32-44e87f91bce3,2022-10-18,7567,47,Female,Regular,Jacket,Clothing,1,648.01,10,583.21,PayPal,Los Angeles
+03015f1e-4ecf-4af3-abcb-309341928a28,2023-08-26,9038,33,Female,Gold,Vacuum Cleaner,Home & Kitchen,9,693.31,20,4991.83,PayPal,New York
+6fd78de7-085e-4e12-987b-f74e832902fe,2022-07-14,8417,26,Female,Regular,Self-Help,Books,10,424.15,15,3605.28,PayPal,Miami
+4c9dc776-1e08-47c8-a5d6-5b0d621b188b,2023-09-15,3900,75,Non-Binary,Platinum,Football,Sports,5,368.72,15,1567.06,PayPal,Miami
+74b5f8b9-e9d4-48ac-993b-e79ccfd1c862,2024-03-10,8311,50,Female,Gold,Science,Books,4,388.56,0,1554.24,Cash,Los Angeles
+d7780e83-92da-4bfc-b882-372b32bbc51d,2024-02-21,6641,60,Male,Platinum,Headphones,Electronics,1,50.36,10,45.32,PayPal,Miami
+5a3ed297-6d79-41de-88b0-cd7d595d3ea9,2022-08-15,8310,33,Male,Gold,Doll,Toys,8,528.39,5,4015.76,Debit Card,Los Angeles
+c6eca3ae-32da-4ce6-9d13-05ee1dd17a1b,2022-05-25,7720,50,Non-Binary,Silver,Smartwatch,Electronics,3,45.18,0,135.54,PayPal,Houston
+922f676d-dbe8-4b78-be32-a2fe3eef4a57,2023-08-03,6194,47,Male,Silver,Jeans,Clothing,6,480.43,5,2738.45,Cash,Chicago
+9218df26-651e-4cfe-b0d7-a7c435c0ca86,2024-02-10,5717,55,Male,Gold,Doll,Toys,4,972.47,20,3111.9,Cash,Los Angeles
+fe4a4ffe-e73f-4512-b0ff-447f30e01fb7,2025-03-08,8509,44,Male,Regular,Laptop,Electronics,1,948.44,15,806.17,Credit Card,New York
+c7de6856-322a-4f22-9863-a90344e66c77,2022-05-02,4977,19,Female,Regular,Self-Help,Books,4,428.08,15,1455.47,Debit Card,New York
+afc2a16c-0f7a-49ca-957a-fae6eaadb91c,2023-09-06,6259,52,Female,Silver,Headphones,Electronics,6,184.23,20,884.3,Debit Card,Los Angeles
+dfaaff4b-a389-43d2-9a74-50ae46f39065,2025-02-27,2026,54,Male,Silver,Science,Books,4,495.55,5,1883.09,PayPal,New York
+8ade33e1-9538-45bc-b359-c4e4a0f939fd,2023-07-04,8104,38,Female,Regular,Self-Help,Books,4,418.53,10,1506.71,PayPal,Houston
+e581dcd9-41fa-44c8-bc40-77a42be4e3d5,2024-08-01,4296,41,Male,Platinum,Sneakers,Clothing,10,33.81,0,338.1,Cash,Miami
+27972998-bf4a-4e95-937f-d3fb468ee223,2022-05-09,5486,45,Non-Binary,Regular,Lego Set,Toys,2,809.91,15,1376.85,Debit Card,Los Angeles
+9450bad9-d780-4004-bc5f-52fbcf89fbd8,2024-04-13,4561,19,Non-Binary,Gold,Yoga Mat,Sports,8,105.47,5,801.57,Debit Card,New York
+451d1874-7442-48a3-973d-563c288f46cc,2025-03-10,6132,42,Female,Gold,Sneakers,Clothing,10,38.47,20,307.76,Credit Card,Chicago
+77ab2648-b1ac-45b3-9a9e-f2b69045e0c5,2024-03-16,3136,20,Male,Platinum,Smartwatch,Electronics,5,680.51,0,3402.55,PayPal,New York
+830d2ea1-cb2e-419a-99fa-643ade3d954f,2024-02-07,3257,29,Male,Gold,Lego Set,Toys,9,709.18,20,5106.1,Cash,Miami
+42cc424f-49ba-42d8-a31f-d685f207e41e,2023-08-25,6091,36,Non-Binary,Gold,Remote Car,Toys,5,730.0,10,3285.0,PayPal,New York
+410290cf-c9f5-4f4a-8508-d71778686a1a,2023-11-04,7521,25,Non-Binary,Gold,Football,Sports,8,231.28,0,1850.24,Credit Card,Houston
+89c808fc-4025-4c25-a204-284533494c4a,2022-03-16,5078,35,Non-Binary,Gold,Smartphone,Electronics,7,881.52,10,5553.58,Cash,New York
+a5e6c49e-5b24-422f-9000-b175239d7440,2025-01-22,4942,60,Non-Binary,Platinum,Doll,Toys,10,590.07,5,5605.67,Debit Card,New York
+9cf47e9c-b399-4011-b226-1e0600c32f57,2022-07-15,2323,45,Male,Silver,Coffee Maker,Home & Kitchen,7,392.71,10,2474.07,Debit Card,Los Angeles
+b2eac12f-f788-429d-a71f-7634750b9316,2023-08-04,1862,52,Non-Binary,Platinum,Vacuum Cleaner,Home & Kitchen,6,980.22,15,4999.12,Credit Card,Miami
+9f3bf3c0-e590-4408-86ed-7b559c676a52,2023-05-16,5853,39,Female,Platinum,Microwave,Home & Kitchen,5,473.33,15,2011.65,PayPal,New York
+54230661-7508-49ea-bb72-ee6609f9aff6,2023-10-05,9731,69,Male,Silver,Fiction,Books,8,248.88,15,1692.38,PayPal,Houston
+2bf9e595-114c-4d92-a477-cffe0ad738d6,2024-02-22,8277,64,Female,Gold,Puzzle,Toys,6,809.02,20,3883.3,Credit Card,New York
+762552f4-1fdf-48db-89fa-b6f9bbc6a845,2022-10-14,1561,50,Male,Regular,Tennis Racket,Sports,1,344.63,0,344.63,Cash,Miami
+cd4cba7b-3b75-41d4-93c7-8abb8603bf63,2023-02-28,7013,36,Non-Binary,Regular,T-shirt,Clothing,3,284.18,15,724.66,PayPal,Los Angeles
+2bd458d3-0a4b-4921-a328-b8dc502dbf01,2022-05-26,8680,28,Male,Silver,Smartwatch,Electronics,6,807.11,15,4116.26,PayPal,New York
+72200b48-2e9a-4327-afcc-b5fae85d4ae6,2024-08-29,5066,42,Male,Platinum,Microwave,Home & Kitchen,6,599.72,0,3598.32,Credit Card,Houston
+780aaa2e-18ac-47f5-819d-8af857ca5831,2024-05-08,5608,29,Male,Gold,Headphones,Electronics,5,239.15,15,1016.39,Cash,Los Angeles
+2d7b34f3-35b9-4b47-a373-444aa48004dd,2022-05-28,3715,27,Non-Binary,Regular,Tennis Racket,Sports,10,584.76,15,4970.46,Debit Card,Miami
+cc7a7a5e-fd2b-45ff-a424-d6fab371d414,2023-09-23,7498,55,Non-Binary,Platinum,Fiction,Books,2,850.83,0,1701.66,Debit Card,Los Angeles
+a688bbf9-73b8-46c8-82ed-9a72fd53d3b5,2024-10-02,8757,66,Non-Binary,Gold,Fiction,Books,8,158.04,5,1201.1,Debit Card,Chicago
+8f0f9d6d-a129-4e10-b911-1f35fd427174,2022-10-27,7540,31,Female,Regular,Jacket,Clothing,5,664.38,15,2823.61,Cash,Chicago
+a832eb8b-a5f6-421b-a546-ea67e7134595,2024-04-23,4967,24,Non-Binary,Platinum,Smartwatch,Electronics,6,948.33,0,5689.98,PayPal,Houston
+83fff216-b64f-4f99-b520-d86c341c5648,2022-12-14,5545,68,Male,Gold,Vacuum Cleaner,Home & Kitchen,6,207.15,5,1180.76,Credit Card,Los Angeles
+328a459a-5729-440e-bb79-6a243bb4105e,2023-11-06,3671,23,Female,Regular,Smartphone,Electronics,10,548.8,10,4939.2,Cash,Houston
+f74a8031-fc9a-477d-8015-87aec64cd59b,2023-05-05,2091,20,Male,Regular,T-shirt,Clothing,8,671.34,10,4833.65,Debit Card,New York
+2e35077b-5852-4640-957a-2cd7b8419f2e,2024-01-26,4734,65,Non-Binary,Gold,Remote Car,Toys,9,347.94,5,2974.89,Credit Card,Houston
+4e8d6b71-1e2d-4b54-8ad1-bc64633d9929,2025-02-17,1796,23,Female,Regular,Remote Car,Toys,5,672.58,10,3026.61,Credit Card,Chicago
+21776e55-7120-4123-8cec-d15b2ec8b025,2024-01-25,6213,50,Male,Gold,Non-Fiction,Books,10,82.94,10,746.46,Credit Card,Los Angeles
+1790dded-bf71-475f-aab0-356cad20eabd,2024-01-03,7403,73,Female,Regular,Self-Help,Books,2,996.27,0,1992.54,Credit Card,Chicago
+d80bb39a-9ca0-46b7-82b9-81f1a7186a37,2025-01-22,3763,43,Male,Silver,T-shirt,Clothing,8,241.08,5,1832.21,PayPal,New York
+aec3569c-def5-47c6-9aab-ed6e1bf12cd6,2022-05-07,1980,20,Female,Gold,Smartphone,Electronics,9,519.35,20,3739.32,Credit Card,New York
+5d5fee3f-5035-46b4-b7ba-e80bc96746c4,2024-11-28,3486,30,Non-Binary,Regular,Headphones,Electronics,4,138.77,10,499.57,Credit Card,Chicago
+21d04986-28f9-4194-a8bf-72c86004b119,2024-10-09,4990,69,Male,Platinum,Science,Books,5,868.63,5,4125.99,Credit Card,Los Angeles
+60e8fd57-4bcf-4f16-a317-36c4555c52fe,2024-11-11,1236,26,Female,Platinum,Blender,Home & Kitchen,10,355.59,15,3022.51,Credit Card,Miami
+3970b16f-a9fb-4888-b41f-b501ea8730d4,2022-03-28,7873,35,Non-Binary,Regular,Self-Help,Books,4,278.68,0,1114.72,Credit Card,Los Angeles
+81cfcf9e-b527-4d43-bdfe-3c5bdbd057d4,2022-08-31,2171,55,Non-Binary,Regular,Laptop,Electronics,7,369.99,0,2589.93,Credit Card,New York
+52d940f7-6d62-4b6c-98b8-e86fbb97345b,2022-05-08,3994,65,Male,Gold,Science,Books,9,966.1,0,8694.9,Debit Card,New York
+85b6eff7-3be3-4fe1-aec0-a74da6bf94a1,2024-09-23,9216,30,Non-Binary,Platinum,Microwave,Home & Kitchen,6,486.01,20,2332.85,Cash,Miami
+f9cf49b0-8ce1-472e-a72a-cc510ea602c2,2024-08-29,2986,19,Non-Binary,Regular,Dumbbells,Sports,1,720.35,5,684.33,Cash,Chicago
+412d7600-9487-4f08-83b5-183e91e495fa,2023-02-05,8702,63,Female,Regular,Self-Help,Books,8,31.88,10,229.54,Credit Card,Houston
+da0b8ac1-0824-43ec-8d07-cef46ad6879c,2025-02-18,3916,68,Female,Platinum,Headphones,Electronics,4,981.65,20,3141.28,PayPal,Chicago
+7ae50454-2152-4486-8f4b-333117342750,2024-06-18,8156,44,Female,Gold,Non-Fiction,Books,1,776.89,20,621.51,Debit Card,Los Angeles
+7b1b2c24-5f83-4fe6-8aac-029cc3cbbb96,2023-06-01,5224,28,Non-Binary,Regular,Jacket,Clothing,2,941.58,10,1694.84,PayPal,Chicago
+daebb9e7-e79e-44c2-bfc9-620a6a04aec6,2022-12-18,8616,31,Male,Platinum,Headphones,Electronics,4,828.56,15,2817.1,PayPal,Los Angeles
+b4db36e3-e2c2-4bf1-b614-023f19eaa2e0,2024-08-25,5886,56,Female,Regular,Headphones,Electronics,2,724.86,5,1377.23,PayPal,Chicago
+ac6ad64f-4d47-4e07-b646-23632165876f,2025-01-26,2505,28,Non-Binary,Regular,Jacket,Clothing,5,813.02,15,3455.34,PayPal,New York
+82a7934e-0038-40c7-a4be-ca70bf36f39a,2024-07-21,6668,49,Male,Platinum,Tennis Racket,Sports,2,520.48,0,1040.96,Cash,Los Angeles
+b64adfaf-5069-4c1d-917d-989e5566e213,2023-12-14,2525,49,Non-Binary,Regular,Fiction,Books,2,993.9,10,1789.02,Cash,Los Angeles
+f46025e6-4354-4c3a-834e-65e60abf04c8,2022-11-19,4938,28,Male,Silver,Yoga Mat,Sports,4,846.77,10,3048.37,PayPal,Los Angeles
+670adeff-d16c-4584-bf53-c4314e0f1fb8,2023-01-20,3481,19,Female,Regular,Football,Sports,10,785.07,5,7458.16,PayPal,Los Angeles
+a3bd97bc-bda8-4877-884a-0345b7ddf24c,2024-09-16,2466,32,Male,Gold,Smartwatch,Electronics,2,580.31,10,1044.56,Debit Card,Houston
+47713893-df4a-41cd-9514-a1e7db760f22,2024-11-30,1041,19,Male,Platinum,Blender,Home & Kitchen,4,650.3,5,2471.14,Debit Card,Houston
+4ee80354-8353-4b41-862a-2da76b999712,2023-01-14,2963,35,Male,Platinum,Smartwatch,Electronics,8,207.7,10,1495.44,Debit Card,Chicago
+b0a68b1b-f8bf-484f-867a-fb2b4da0e3e2,2022-06-30,3153,53,Female,Platinum,T-shirt,Clothing,10,140.88,0,1408.8,Cash,Miami
+9c541f3c-968f-4b73-bb8c-08da29eaa092,2023-06-06,2240,64,Non-Binary,Gold,Football,Sports,1,884.79,5,840.55,Credit Card,Chicago
+70469157-759f-4e47-a013-24314540c3e9,2022-05-20,5391,33,Female,Silver,Smartwatch,Electronics,1,864.0,0,864.0,Credit Card,Miami
+35afd794-48db-4dee-9240-4d1ea94c8db3,2025-01-18,4615,35,Non-Binary,Platinum,Yoga Mat,Sports,3,320.72,0,962.16,Credit Card,Houston
+7e7da035-bdc9-4b2a-b287-9a12ae936643,2022-05-01,2279,46,Female,Silver,Coffee Maker,Home & Kitchen,9,832.76,5,7120.1,Cash,Los Angeles
+d10a839c-71a8-48bd-afc8-024e3e13a4d2,2022-06-29,9106,49,Non-Binary,Regular,Jeans,Clothing,2,301.78,20,482.85,Cash,Chicago
+66cf0dfc-6d12-46af-974d-d8ebb57478a6,2023-03-05,8589,20,Female,Regular,Non-Fiction,Books,6,803.64,0,4821.84,PayPal,Chicago
+8846568f-113d-44ff-babd-d41a2dbfc724,2024-11-12,7712,43,Male,Silver,Dumbbells,Sports,6,895.48,15,4566.95,Debit Card,Houston
+04e505ad-fa32-4c77-a847-475a69125167,2025-01-29,3763,73,Female,Regular,Jeans,Clothing,6,856.57,0,5139.42,Credit Card,Los Angeles
+507a65fe-257e-4044-b846-11ad4f68b37f,2023-09-08,6798,64,Male,Silver,Tennis Racket,Sports,5,921.96,20,3687.84,Cash,Chicago
+da4e51db-f315-4daf-940e-ed6504bc6017,2023-05-26,9813,61,Non-Binary,Gold,Lego Set,Toys,6,130.84,10,706.54,Debit Card,New York
+c8ba323e-614c-4583-9841-451eae6aaa53,2023-01-07,6704,73,Female,Regular,Yoga Mat,Sports,1,771.0,15,655.35,Debit Card,Houston
+5885844d-223e-4afc-8fcf-046b8abc44fa,2022-09-25,1980,42,Female,Platinum,Fiction,Books,2,720.22,15,1224.37,Cash,Los Angeles
+3f5d6f3d-7915-4d9c-a5eb-ad44f5c99e2a,2023-02-17,1038,23,Non-Binary,Regular,Self-Help,Books,4,692.2,10,2491.92,Cash,New York
+7e82b64c-9256-4144-85cf-c20bbcb51141,2022-12-11,6847,53,Female,Platinum,Puzzle,Toys,5,201.14,10,905.13,Cash,Miami
+2946bd89-583c-4440-855f-f01951dba3e9,2023-10-27,1910,50,Female,Gold,Smartphone,Electronics,10,527.15,0,5271.5,Cash,Miami
+040db649-5b73-447f-a3c2-cea1b2ed80c2,2023-07-20,5094,22,Non-Binary,Gold,Headphones,Electronics,4,858.26,10,3089.74,Credit Card,New York
+a8ca9616-c34a-465b-bf5d-473d011138a8,2023-05-03,3712,27,Non-Binary,Platinum,Puzzle,Toys,2,565.39,20,904.62,PayPal,Miami
+a98e907a-ee30-45c4-b23a-2c8a029e5108,2024-12-26,9249,73,Male,Regular,Laptop,Electronics,1,689.81,5,655.32,PayPal,Miami
+9063f271-80b9-4bd0-a01a-c1c4cd5ec6a0,2024-12-11,9204,67,Male,Regular,Non-Fiction,Books,1,9.23,20,7.38,PayPal,Miami
+1b6eda08-4adb-4106-a485-f62efaeb291a,2024-05-07,9982,27,Male,Regular,Remote Car,Toys,3,576.07,5,1641.8,Cash,Miami
+6115d09b-f957-4305-b9c4-003c7ffd20f0,2024-04-16,1223,67,Non-Binary,Gold,Jacket,Clothing,8,714.34,20,4571.78,Cash,Los Angeles
+d051a48c-7796-4864-86fd-f21230c9b804,2022-12-29,1334,65,Male,Platinum,Headphones,Electronics,8,506.72,0,4053.76,Cash,Miami
+4ed8ca9a-d5f1-4a9d-91c1-8f29c2760dc2,2024-07-07,8198,25,Non-Binary,Gold,Blender,Home & Kitchen,9,608.13,20,4378.54,Debit Card,Houston
+d729a9e4-41f7-44bd-a039-9ac341dea6ea,2024-02-12,4201,62,Non-Binary,Gold,Jacket,Clothing,4,771.97,0,3087.88,PayPal,Miami
+e48c38ec-65bd-4466-b535-f18477876a2f,2025-01-13,6803,22,Non-Binary,Gold,Smartphone,Electronics,4,631.14,20,2019.65,PayPal,Houston
+6c09ea33-efdd-44b3-be48-58aa254859b7,2024-03-18,8923,31,Male,Gold,Jacket,Clothing,2,314.54,20,503.26,PayPal,Houston
+88947c63-4ac3-49e9-9131-b6244c1b5c2e,2023-01-20,9175,26,Male,Regular,Sneakers,Clothing,4,466.76,5,1773.69,Cash,Miami
+fd6e773d-50ee-48d3-b88f-39d06dde04f3,2024-10-21,9951,56,Male,Gold,Tennis Racket,Sports,1,249.33,5,236.86,Cash,Chicago
+1684830e-84ac-49f7-af4d-af7d71e1ca33,2023-01-28,5903,38,Male,Platinum,Puzzle,Toys,10,979.06,20,7832.48,Cash,Miami
+4299c97f-1ab0-4de6-afe9-0b1f3a8c1a97,2024-04-15,5127,64,Female,Silver,Doll,Toys,5,456.57,20,1826.28,Credit Card,Chicago
+6d1e5cee-5523-42fc-a592-b3c6ac7d6434,2023-05-02,4198,52,Non-Binary,Regular,Doll,Toys,5,625.41,15,2657.99,Debit Card,Houston
+162fa1d2-2370-4790-9a9c-5a82ff40fc17,2024-02-03,6232,66,Female,Gold,Doll,Toys,8,480.1,15,3264.68,Cash,Chicago
+7b813f59-1e08-4901-be0f-732369991e1a,2024-08-23,7472,58,Female,Silver,T-shirt,Clothing,10,670.21,15,5696.78,Debit Card,Chicago
+ceb860ef-1b33-4b3b-b4e9-6786a1e9bf37,2023-09-19,5544,24,Male,Regular,Jacket,Clothing,10,809.55,10,7285.95,Cash,Houston
+fd206de7-ba00-4d06-a233-c8dcd8dfd214,2024-05-31,9467,49,Male,Gold,Fiction,Books,10,658.1,15,5593.85,Credit Card,Los Angeles
+55d7fb94-e8d2-4d06-95dc-daa178e7c0ef,2023-03-17,8771,25,Female,Platinum,Vacuum Cleaner,Home & Kitchen,4,196.95,10,709.02,Debit Card,New York
+d5f8f5fb-54f4-4d08-be00-49978898ec57,2024-06-17,2000,63,Female,Regular,Jeans,Clothing,9,325.85,5,2786.02,Debit Card,Chicago
+33195292-57e7-4d2b-95ad-2ee61f911431,2024-03-01,3326,71,Female,Platinum,Jacket,Clothing,1,445.91,10,401.32,Cash,Chicago
+d2ea04e6-de48-4fc6-b235-68dbb9e2c697,2023-04-30,8988,66,Non-Binary,Platinum,Headphones,Electronics,8,247.91,15,1685.79,Cash,Houston
+50ff24c6-ee42-4ceb-8e8b-b8c8480ca461,2024-03-13,8855,63,Non-Binary,Regular,Sneakers,Clothing,10,648.39,0,6483.9,PayPal,New York
+d3f354d7-abac-449d-a622-7adf3afc0b17,2022-04-13,6399,29,Non-Binary,Regular,Yoga Mat,Sports,5,98.94,5,469.96,Debit Card,Houston
+9f8b72f0-6752-4532-a29e-9bd8ad557e06,2022-06-28,2855,64,Female,Platinum,Lego Set,Toys,8,361.93,5,2750.67,Debit Card,Miami
+dfbe63fa-8d95-4cc4-a145-62deef9d64c6,2022-05-25,5323,22,Female,Gold,Headphones,Electronics,6,410.4,15,2093.04,Debit Card,Chicago
+4ff8debc-adc6-48b2-a379-07ca5995dda0,2023-12-20,7337,23,Male,Silver,T-shirt,Clothing,3,169.65,10,458.06,Cash,Houston
+95ece568-4f58-4488-9aff-3a6ee612382f,2024-03-05,7325,34,Female,Regular,Vacuum Cleaner,Home & Kitchen,10,492.81,5,4681.69,Debit Card,Chicago
+0912b764-70ce-4f8a-b6c0-0e4492018ff7,2022-08-04,6741,62,Male,Gold,Tennis Racket,Sports,10,225.23,10,2027.07,Debit Card,New York
+1ff4ed3c-e698-4b49-aec1-13753bc3aab5,2024-06-11,7881,54,Non-Binary,Silver,Coffee Maker,Home & Kitchen,5,671.16,20,2684.64,Debit Card,Houston
+6b02d500-a116-42a2-9e94-6e38b5de5bb9,2022-07-20,6111,54,Male,Platinum,Jacket,Clothing,1,595.98,5,566.18,Cash,New York
+03805c89-ba76-43c2-942a-358a453a3504,2023-12-19,2637,35,Non-Binary,Gold,Puzzle,Toys,3,646.77,0,1940.31,Credit Card,Chicago
+3ae883e5-27d8-4233-a521-74e2986bb68d,2024-02-21,8588,52,Non-Binary,Silver,Remote Car,Toys,4,74.11,5,281.62,Credit Card,New York
+f513a42c-e0f1-42df-9f1c-2c7930ab3f0b,2025-01-24,8123,41,Female,Gold,Fiction,Books,2,567.77,10,1021.99,Cash,Chicago
+fd721c79-9149-45d4-a289-e0e7e92aa1e5,2023-12-25,4498,66,Non-Binary,Gold,Remote Car,Toys,6,136.42,15,695.74,Credit Card,Houston
+0065635b-7ec6-4a4e-af9f-50acaef6c7da,2024-06-08,4696,27,Female,Platinum,Sneakers,Clothing,9,712.66,20,5131.15,Cash,Chicago
+e0f251f9-0887-410b-9fd0-5c10260d4850,2024-08-28,5408,71,Male,Gold,Science,Books,3,351.19,10,948.21,PayPal,Chicago
+dad043c8-7f92-4438-a85a-4c212cdc9549,2022-07-20,9668,37,Non-Binary,Gold,Remote Car,Toys,9,562.38,15,4302.21,Cash,Houston
+aea32d7c-32cf-4097-a42e-abebc70b698d,2022-04-25,5641,39,Female,Gold,Dumbbells,Sports,1,32.16,5,30.55,PayPal,Miami
+a486754b-a340-4c34-bd38-46a81b6f43d7,2023-05-28,8475,18,Male,Silver,Coffee Maker,Home & Kitchen,10,637.22,15,5416.37,PayPal,Miami
+5df2a462-6651-4eec-82cb-1e7805b23ea2,2024-02-19,9592,59,Male,Silver,Puzzle,Toys,5,370.17,15,1573.22,PayPal,Chicago
+b0a1a0ee-b363-4b21-aa87-7479b2bcb881,2023-02-21,1688,36,Female,Silver,Sneakers,Clothing,8,696.95,20,4460.48,Credit Card,Miami
+d6616c8d-bd37-46e8-8de7-94939dcbb558,2025-02-22,5651,58,Female,Silver,Tennis Racket,Sports,7,556.51,0,3895.57,Debit Card,Houston
+6610b715-bbaf-4c30-8238-52bcf3fecb2e,2024-07-12,8355,64,Male,Gold,Doll,Toys,4,311.43,20,996.58,Cash,Los Angeles
+6a9647ac-ccca-4b5b-835a-57d8ed238f2c,2023-08-10,5068,37,Non-Binary,Platinum,Laptop,Electronics,1,287.33,10,258.6,Credit Card,New York
+9c0b75a4-a995-45f7-982a-f1100798b6dd,2023-07-18,6995,41,Non-Binary,Gold,Lego Set,Toys,5,603.82,0,3019.1,Debit Card,Chicago
+c19509a9-420c-4479-8895-c88b584f5d42,2022-07-01,3019,73,Non-Binary,Platinum,Jacket,Clothing,2,350.64,0,701.28,Debit Card,Miami
+092c10d9-e0d0-4da3-b918-45b86deeefc5,2024-01-02,9641,69,Female,Regular,Jeans,Clothing,10,545.63,20,4365.04,PayPal,Chicago
+0831cc74-fff3-4bd9-ab03-9c44df1638f5,2024-01-17,7241,59,Male,Platinum,Jeans,Clothing,8,461.68,15,3139.42,PayPal,Houston
+951a425f-88a0-482f-8831-f7e3da09abd9,2024-12-25,4908,66,Male,Silver,Vacuum Cleaner,Home & Kitchen,10,378.56,15,3217.76,Debit Card,Chicago
+ca940c3a-fe0b-402f-aab4-ad6f7d0f541f,2022-08-15,9057,59,Female,Regular,Puzzle,Toys,10,650.79,0,6507.9,PayPal,New York
+3df16d91-5bcc-46a9-9599-80d0bc937ae2,2022-08-19,3995,59,Female,Platinum,Smartphone,Electronics,6,136.9,0,821.4,PayPal,Los Angeles
+331f1532-b0cc-4910-aff5-3e8e57853c6f,2022-06-11,7227,57,Non-Binary,Gold,Smartphone,Electronics,4,371.36,15,1262.62,Credit Card,Chicago
+28a30c79-495c-473f-9ccd-1806413318a6,2023-03-31,4164,48,Male,Gold,Non-Fiction,Books,8,67.32,10,484.7,Debit Card,New York
+7da36d47-47a0-4f62-9129-4f6075bfe73b,2023-09-01,6659,45,Male,Gold,Blender,Home & Kitchen,6,311.42,15,1588.24,Debit Card,Los Angeles
+9e5879ee-a999-486c-bed8-0e2ff3273c6c,2022-08-07,8355,62,Non-Binary,Regular,Jacket,Clothing,9,470.83,5,4025.6,Cash,Chicago
+99b0cad8-8d7a-4513-b614-d1194e510b7e,2024-08-24,6236,58,Female,Silver,Science,Books,7,58.71,5,390.42,Debit Card,Chicago
+5d8db236-d66c-4452-98f6-70592722a54f,2023-04-19,1199,46,Non-Binary,Regular,Self-Help,Books,10,494.16,20,3953.28,Debit Card,Miami
+f6689976-c5b7-48c8-8c31-fb26017b6cd0,2024-12-08,6879,33,Non-Binary,Silver,Laptop,Electronics,7,11.4,15,67.83,Cash,Chicago
+dcb0aa16-d509-4dde-8e2d-ea78652c8548,2023-06-20,1571,26,Male,Silver,Laptop,Electronics,10,452.94,0,4529.4,Debit Card,Chicago
+3fcb42e8-eeac-4b74-9d4b-7a9506037239,2025-02-14,2712,70,Female,Platinum,Vacuum Cleaner,Home & Kitchen,2,803.4,20,1285.44,Debit Card,New York
+3e244a43-160a-475e-a9ed-229aebe65f9a,2024-06-26,5698,30,Male,Silver,Remote Car,Toys,9,47.5,0,427.5,Debit Card,Miami
+4d3e08f4-081c-4fc4-b626-33cdc132e778,2024-10-09,7385,64,Non-Binary,Regular,Jeans,Clothing,6,740.55,0,4443.3,Debit Card,Chicago
+25a21adb-0c6f-41fe-a91b-8002911de2d7,2023-07-30,6848,33,Male,Regular,Sneakers,Clothing,9,996.73,5,8522.04,Debit Card,Los Angeles
+d7d271e4-fcda-46db-8301-d1d8ae70e21a,2023-12-17,3410,50,Female,Silver,T-shirt,Clothing,1,6.26,5,5.95,Cash,Los Angeles
+1ceeeea1-2194-47ce-85e3-cd7b8e491a6c,2024-06-02,2735,62,Non-Binary,Gold,Smartphone,Electronics,6,556.28,10,3003.91,Credit Card,Houston
+35bf3a68-dbdc-4bec-8ff0-7ed3923fa832,2024-10-25,7776,56,Male,Gold,Non-Fiction,Books,2,767.8,0,1535.6,Credit Card,Houston
+de57fdaf-364a-4173-95cd-f9c375284caf,2023-02-14,7463,56,Female,Platinum,Remote Car,Toys,10,729.04,5,6925.88,Debit Card,Los Angeles
+17a637f7-e01d-41f4-b554-d0cf81b667f6,2022-07-19,8655,43,Male,Silver,Doll,Toys,3,141.19,20,338.86,Cash,Los Angeles
+e97bb9b5-2bf6-47ca-ae00-e2b22f508191,2022-05-24,2260,66,Male,Platinum,Smartwatch,Electronics,1,674.0,20,539.2,Credit Card,New York
+ff7e6ed6-9cd1-4e55-ae63-1a6ff5b8b8da,2023-10-24,9739,20,Non-Binary,Silver,Self-Help,Books,10,177.97,0,1779.7,PayPal,Los Angeles
+0854895d-a170-47db-94ea-27f506947d4f,2024-09-21,6580,24,Female,Silver,Coffee Maker,Home & Kitchen,4,294.83,20,943.46,Credit Card,New York
+9e1ed8fc-6aa5-42d2-82de-f85600ee048b,2023-01-01,1727,45,Female,Silver,Yoga Mat,Sports,7,845.57,15,5031.14,Credit Card,New York
+f85908d5-0910-485c-b453-2f5f26730aaf,2024-08-01,7447,68,Non-Binary,Regular,Yoga Mat,Sports,3,294.84,0,884.52,Debit Card,New York
+f1a7af50-93b6-4073-80e7-d6f70377346f,2023-03-02,2025,66,Non-Binary,Gold,Jacket,Clothing,10,77.02,20,616.16,Cash,Los Angeles
+2f2573bd-78e8-47aa-9217-24bb1815ff26,2023-05-31,1006,70,Female,Gold,Laptop,Electronics,2,449.07,20,718.51,PayPal,Los Angeles
+d27af615-dc86-412f-85d5-b3e92edd2ef5,2023-07-07,1181,52,Female,Silver,Dumbbells,Sports,1,777.81,20,622.25,Cash,Miami
+36bb78c3-bb44-4d62-8e65-45b2bd4a9503,2022-08-30,1670,28,Male,Platinum,Jeans,Clothing,2,719.28,20,1150.85,Debit Card,Miami
+03ad8f55-d0c5-4d03-973f-1e4cc2d23b15,2022-09-10,1309,58,Non-Binary,Regular,T-shirt,Clothing,2,185.57,15,315.47,Credit Card,Miami
+41522736-2e2c-44db-873d-4f4b93608213,2022-12-20,7007,43,Male,Platinum,Blender,Home & Kitchen,10,936.48,5,8896.56,Debit Card,Miami
+79d99fbe-696c-4bf3-b7b0-3a091f80e630,2023-03-22,5712,69,Male,Silver,Blender,Home & Kitchen,8,210.62,15,1432.22,PayPal,Los Angeles
+3898081a-279e-4528-bec5-f91c233a6f52,2023-08-04,5265,21,Male,Silver,T-shirt,Clothing,4,471.85,5,1793.03,Credit Card,Los Angeles
+2ad3d711-c25a-4300-b263-34f60239b8da,2022-04-15,9178,75,Female,Silver,Self-Help,Books,6,673.18,15,3433.22,Cash,Miami
+57ccd056-9619-46af-b577-2eb3ee34b6d1,2023-09-04,1444,35,Male,Regular,Smartwatch,Electronics,6,215.21,15,1097.57,Debit Card,Los Angeles
+93ac0a99-69e1-4b74-ab08-1a6db05ffade,2023-08-08,6264,45,Female,Regular,Football,Sports,5,617.11,15,2622.72,Debit Card,Houston
+1af1b20e-3f2e-4d3e-a7e7-a5a24605d0cc,2024-08-29,3621,74,Non-Binary,Gold,Football,Sports,3,579.76,10,1565.35,Credit Card,New York
+cacdbfc7-de92-4614-8f80-7bbdb5e41aa6,2022-07-02,8804,31,Non-Binary,Regular,Smartphone,Electronics,9,7.52,20,54.14,Debit Card,Houston
+1df3b84a-459a-4f3a-8250-b3a327576088,2023-03-06,3208,57,Male,Platinum,Puzzle,Toys,3,728.29,20,1747.9,Debit Card,Chicago
+720ce4e4-cf4c-4b48-9091-6596692322bd,2022-03-18,5078,75,Non-Binary,Platinum,Fiction,Books,1,881.36,5,837.29,PayPal,New York
+dff92910-f3d6-4ca3-8de8-ff3c33865137,2022-09-02,9040,41,Female,Silver,Puzzle,Toys,1,581.23,0,581.23,Credit Card,Chicago
+a81752ac-82e2-4780-964c-520ed651f686,2024-05-16,5499,49,Male,Gold,Sneakers,Clothing,2,789.49,15,1342.13,Debit Card,Miami
+48cb8c42-56fb-4c34-9f5e-1c2f911d9e8a,2022-11-03,5343,69,Male,Silver,Sneakers,Clothing,6,808.21,15,4121.87,PayPal,Houston
+e947d59d-2226-4761-b406-5aacf1b3aa54,2024-03-01,7260,26,Male,Regular,Football,Sports,8,425.1,15,2890.68,Cash,Chicago
+d18a15dd-40df-4ece-8306-e2420c013c30,2022-11-20,2775,57,Non-Binary,Platinum,Football,Sports,1,334.1,10,300.69,Credit Card,Chicago
+42ff4924-d232-4aec-89dc-bec2a5e94838,2022-09-10,1483,22,Female,Gold,Smartphone,Electronics,5,241.18,5,1145.61,Cash,New York
+52701141-a632-42ef-9d0f-b42fa06d9be7,2022-08-12,2142,41,Male,Platinum,Self-Help,Books,8,232.6,20,1488.64,PayPal,Houston
+d6817aea-06f8-4cfe-97a0-e22048c03d21,2025-02-11,2717,31,Female,Regular,Vacuum Cleaner,Home & Kitchen,6,73.04,10,394.42,Cash,Houston
+6bded9d5-27ff-4bd4-9221-2646d287ab48,2023-05-30,9521,73,Non-Binary,Regular,Lego Set,Toys,2,965.05,0,1930.1,PayPal,Miami
+0dbf731d-cde0-4a28-a29d-17872161fdb5,2022-07-22,3310,37,Male,Regular,Blender,Home & Kitchen,7,615.96,5,4096.13,Debit Card,Miami
+2ac04d12-da0d-4b17-b4e0-23bb7f4cb0b8,2023-03-05,5238,41,Male,Silver,Puzzle,Toys,9,474.12,20,3413.66,Cash,Chicago
+adf6c892-5d8d-4ca5-a931-ed1ae8adf5c9,2024-04-26,3408,35,Male,Platinum,Coffee Maker,Home & Kitchen,9,85.18,10,689.96,Cash,Los Angeles
+54157384-c0a6-4705-8b2b-04e7654e8fc6,2025-03-08,9483,72,Non-Binary,Silver,Headphones,Electronics,1,466.58,5,443.25,Debit Card,Chicago
+dace45db-c4b7-4f1a-aabd-a161598493c6,2022-09-24,9348,75,Non-Binary,Platinum,Non-Fiction,Books,10,66.77,20,534.16,Cash,Houston
+cca63d6c-6599-48c8-b92a-af8ac32b1c57,2023-10-22,1279,48,Male,Regular,Headphones,Electronics,3,72.22,10,194.99,PayPal,Houston
+0bba3032-f995-485c-a6f8-5a05113a511c,2023-12-24,7640,30,Non-Binary,Gold,Jacket,Clothing,4,948.2,0,3792.8,Cash,Houston
+442cbc9f-f38a-4cbb-9cc4-37867d9f41b8,2022-08-23,9232,25,Male,Regular,Puzzle,Toys,5,84.4,5,400.9,Debit Card,Los Angeles
+0368dad8-01a7-4354-8a56-eaa15ab2eee0,2022-12-14,5957,20,Female,Regular,Smartwatch,Electronics,9,515.6,10,4176.36,Credit Card,New York
+476bd60b-4f02-476a-bdef-e31c073a7bdc,2023-11-20,5709,22,Female,Regular,Self-Help,Books,9,663.28,0,5969.52,Debit Card,Los Angeles
+95d15a4f-2549-4a9d-9110-e700ef63417c,2023-07-19,4261,35,Female,Gold,Vacuum Cleaner,Home & Kitchen,2,841.96,10,1515.53,Debit Card,New York
+7d031b58-844f-4a8f-8d2e-ecbed83d0ea8,2023-10-07,6898,74,Female,Silver,Blender,Home & Kitchen,10,414.99,0,4149.9,Credit Card,Chicago
+bb4e4170-4d76-4767-98c6-10f95044df4b,2024-12-06,8687,27,Female,Silver,Puzzle,Toys,10,472.94,10,4256.46,Cash,New York
+0ae98ddf-3bed-433a-a7d0-5ca155f87131,2024-08-17,6693,49,Female,Platinum,Sneakers,Clothing,4,262.37,10,944.53,Cash,Los Angeles
+2127e650-674e-4798-b0ba-b348a50a08ce,2024-03-17,1214,24,Non-Binary,Silver,Fiction,Books,8,38.27,0,306.16,Cash,Los Angeles
+78f515d8-9b6b-4395-96ec-5cc2e5b9b78d,2023-05-23,3232,30,Male,Platinum,Doll,Toys,10,504.44,15,4287.74,PayPal,New York
+746dc49d-7a1c-471f-8d18-459169474b9c,2023-09-13,3521,33,Female,Platinum,Science,Books,2,754.24,10,1357.63,Cash,Los Angeles
+708e2005-9e47-402e-ba7c-a8844969f918,2023-08-17,5511,32,Non-Binary,Platinum,Science,Books,8,890.43,0,7123.44,Credit Card,Los Angeles
+170f85a6-4593-4dea-9350-a1637a35c8c3,2022-05-08,2097,60,Female,Silver,Vacuum Cleaner,Home & Kitchen,8,10.3,20,65.92,PayPal,New York
+88568bc5-f311-4813-b09d-4a381b92ba62,2024-12-22,5524,41,Male,Silver,Sneakers,Clothing,1,337.21,15,286.63,Credit Card,Los Angeles
+e71657c4-5a7e-4fdc-8d53-6492b770fb0f,2025-02-19,2876,49,Male,Silver,Remote Car,Toys,4,180.1,0,720.4,Debit Card,Houston
+e500e010-d145-434f-b471-9bb8967c1fff,2024-02-01,4517,52,Female,Silver,Football,Sports,2,593.96,10,1069.13,PayPal,Miami
+2ff03072-4c2b-4ee5-a58c-0fb315f76839,2023-09-18,8008,26,Non-Binary,Gold,Self-Help,Books,8,459.44,0,3675.52,Credit Card,Los Angeles
+9e0fd236-f980-49ae-81fd-2507f0a08982,2024-01-02,9754,45,Male,Silver,Remote Car,Toys,3,386.95,20,928.68,PayPal,Los Angeles
+a885a04f-cca5-45d4-b45a-eb000fc961e3,2024-06-24,1399,74,Female,Regular,Smartphone,Electronics,8,476.46,5,3621.1,Credit Card,New York
+5d560db8-02cc-49e2-963f-45ad8c07a33d,2023-04-11,7127,19,Male,Gold,Jacket,Clothing,1,300.59,5,285.56,Debit Card,New York
+f8dd24c9-51ef-49d9-ad7c-18d896c8b198,2022-09-21,6279,26,Non-Binary,Silver,Non-Fiction,Books,3,195.52,0,586.56,Credit Card,Miami
+25931975-eef0-45a3-b5d4-98462fb0d6f9,2024-01-30,6490,70,Male,Silver,Science,Books,3,504.45,15,1286.35,Cash,New York
+18ef7b54-6e17-46f5-af7b-efd8e71bc4fb,2023-02-07,6320,57,Male,Silver,T-shirt,Clothing,5,536.94,20,2147.76,PayPal,Miami
+5625a6e8-cca2-4cf7-8536-d87ef2db870d,2024-03-07,4285,35,Non-Binary,Gold,Blender,Home & Kitchen,10,327.03,15,2779.75,Cash,Houston
+10fef9f5-0f9a-4cd8-af94-d8e2ee7ae612,2024-07-27,6983,47,Non-Binary,Silver,Remote Car,Toys,5,644.44,15,2738.87,PayPal,Chicago
+e9dd135d-6501-4ce5-9f67-cea2251f1899,2024-05-11,7045,37,Female,Platinum,Puzzle,Toys,6,796.16,20,3821.57,Credit Card,Los Angeles
+6423e91e-892d-4738-a6d3-96a513f90a13,2023-06-06,7811,62,Male,Gold,Vacuum Cleaner,Home & Kitchen,9,648.64,5,5545.87,Debit Card,Miami
+c15c5095-39d9-4f8d-9779-17d1da4eab99,2024-09-18,7794,59,Non-Binary,Silver,Yoga Mat,Sports,5,215.42,15,915.53,PayPal,Los Angeles
+b0d84f30-577d-4ea8-b3e6-90511c643486,2022-06-22,8206,38,Female,Gold,Yoga Mat,Sports,1,236.09,0,236.09,Cash,Chicago
+85ac11ed-8f50-428f-905f-6d5779a988b5,2024-06-23,6204,23,Non-Binary,Silver,Remote Car,Toys,1,290.92,0,290.92,Credit Card,Los Angeles
+6afb8b55-bee7-43ed-88c6-22e08c6aa282,2023-08-12,5699,74,Non-Binary,Regular,Smartphone,Electronics,7,396.37,15,2358.4,PayPal,Chicago
+8dbd15b0-f9a3-461b-8323-5dd60b358df7,2023-02-24,6632,23,Male,Regular,Coffee Maker,Home & Kitchen,8,27.96,0,223.68,Cash,Los Angeles
+5b26c3a1-84b3-4689-a631-4d10adccad4b,2023-08-30,1833,21,Male,Regular,Lego Set,Toys,5,385.42,20,1541.68,Cash,Chicago
+cd66eef2-3435-47a3-9c2f-e245bbe9b88f,2022-06-12,9471,36,Male,Gold,Remote Car,Toys,4,334.57,5,1271.37,Debit Card,Miami
+c5ecf26c-8b87-4f0a-bc32-fae4ca664951,2024-03-08,9075,37,Female,Regular,Blender,Home & Kitchen,2,571.14,20,913.82,Cash,Chicago
+db523486-bc7b-4118-aa81-a11ab9e51df2,2023-04-25,8022,50,Male,Regular,Puzzle,Toys,8,99.35,10,715.32,Cash,Chicago
+c6691507-5f8c-4ba3-8ab6-5e08489afe75,2022-09-30,4941,37,Female,Gold,Dumbbells,Sports,5,921.92,20,3687.68,Debit Card,Miami
+1d3a834a-4dea-4f3d-b19e-00cd76a15537,2023-09-29,7003,53,Non-Binary,Gold,Laptop,Electronics,6,835.04,20,4008.19,Credit Card,Miami
+5764bbd1-8e1e-49b3-a629-e23969bc19c5,2025-02-27,6386,52,Female,Platinum,Fiction,Books,4,208.18,10,749.45,Credit Card,Chicago
+1b3712cd-fe7c-4d99-ba90-defe5edd8ca1,2023-08-12,4353,41,Male,Regular,Smartphone,Electronics,7,425.41,10,2680.08,Credit Card,Houston
+ece67bd2-c0ef-476e-b8b6-801f9188f7d7,2022-11-20,6468,31,Non-Binary,Regular,Science,Books,3,845.84,10,2283.77,Debit Card,Chicago
+285bca0e-ef63-4ab5-aecb-003f663d4beb,2023-12-26,1242,72,Non-Binary,Silver,Lego Set,Toys,4,290.67,20,930.14,Credit Card,Chicago
+e517780a-6e8f-456f-b43d-8ae0bec94e9c,2024-10-18,7221,68,Female,Gold,Vacuum Cleaner,Home & Kitchen,1,427.48,15,363.36,Cash,Chicago
+d5a62f52-98da-44ae-9183-c59301596aed,2022-06-21,1296,32,Female,Regular,Vacuum Cleaner,Home & Kitchen,2,39.72,5,75.47,Cash,Houston
+ed6e0984-5c41-44b8-8100-8ae69920d930,2023-08-02,4819,62,Male,Regular,Fiction,Books,2,18.99,5,36.08,PayPal,Houston
+9ce64495-639b-4d03-8eba-4c78e1e5a581,2024-02-06,4956,42,Non-Binary,Platinum,Jeans,Clothing,8,330.81,15,2249.51,Cash,Miami
+654ee6cd-9c29-4f24-98d1-be746dea8699,2023-02-18,2577,32,Female,Gold,Football,Sports,1,393.75,5,374.06,Credit Card,Los Angeles
+6602307c-9826-4dfe-ab88-6c4a4864086b,2024-03-17,8093,32,Non-Binary,Silver,Football,Sports,6,92.07,20,441.94,Debit Card,Houston
+552179e5-62c8-4dfe-b54c-c9afa99f12d7,2023-04-30,5714,68,Female,Gold,Smartphone,Electronics,9,497.44,10,4029.26,Debit Card,Miami
+f122e41e-860e-48cc-ad5b-f521f138f3f9,2024-06-23,2909,49,Female,Silver,Remote Car,Toys,8,475.78,20,3044.99,Debit Card,New York
+348798f0-89a8-4cdc-988c-05514a83f2cd,2023-12-14,3284,43,Male,Platinum,Remote Car,Toys,7,405.51,5,2696.64,Debit Card,New York
+0862996b-48a4-4ab5-a9fa-54bf367d3650,2022-11-24,2154,22,Male,Gold,Jeans,Clothing,4,647.1,20,2070.72,Credit Card,Los Angeles
+486c3d3c-94f6-4b30-9b5f-3a2cbceea636,2023-10-10,4447,37,Non-Binary,Silver,Self-Help,Books,3,373.82,20,897.17,Credit Card,Miami
+96994a88-8433-49a5-b400-d853b3034da8,2024-01-25,3776,19,Male,Platinum,Coffee Maker,Home & Kitchen,5,739.21,10,3326.45,Credit Card,Houston
+09c9bc0c-f8a9-43ab-b5c4-9f8f8e9e3319,2022-07-20,6299,25,Female,Regular,Tennis Racket,Sports,1,282.77,20,226.22,Credit Card,Houston
+8a2c49d4-c948-4bd7-9099-b17a1e4ea630,2022-12-25,2296,39,Female,Silver,Smartphone,Electronics,3,639.43,20,1534.63,Debit Card,Chicago
+232ebd48-4cdc-4b6f-ae05-a841ba15e6c6,2025-03-01,9195,66,Non-Binary,Silver,Sneakers,Clothing,9,123.18,5,1053.19,Debit Card,Miami
+83f66053-1563-457e-8325-f4b19ba047df,2022-12-09,7650,70,Female,Gold,Remote Car,Toys,2,135.01,5,256.52,Credit Card,Houston
+0a29db24-fbe3-4e7f-ba5a-d857a1fcd957,2024-01-23,2534,46,Male,Platinum,Remote Car,Toys,3,99.95,5,284.86,Debit Card,Los Angeles
+6e0c681b-6362-4c42-a7ca-e992da6d58ea,2023-10-13,1063,63,Female,Gold,Dumbbells,Sports,2,920.06,15,1564.1,Debit Card,New York
+0254c62f-9322-4b46-8acd-10acb8d5df0c,2023-02-01,1287,39,Female,Silver,Vacuum Cleaner,Home & Kitchen,3,316.4,10,854.28,Credit Card,Miami
+b1c0427d-e9eb-49e2-a0fe-05879b8fbec6,2024-10-21,4330,64,Male,Regular,Microwave,Home & Kitchen,10,303.44,20,2427.52,PayPal,New York
+f07ba8f5-cf66-4306-a13b-b4792a7a6fb3,2024-06-26,9147,45,Male,Gold,Lego Set,Toys,10,467.73,5,4443.44,Credit Card,Houston
+7ccae3eb-41c9-486a-a6b6-ca906028902f,2022-06-25,8962,49,Male,Regular,Yoga Mat,Sports,6,798.71,5,4552.65,PayPal,New York
+65e3c449-6d87-494f-85fb-04109de8251a,2023-05-22,4827,31,Male,Silver,Vacuum Cleaner,Home & Kitchen,5,769.58,5,3655.51,Debit Card,Los Angeles
+63329d70-cbe3-40d3-a22a-026fba240286,2023-05-26,1196,64,Female,Gold,Puzzle,Toys,5,814.14,5,3867.16,PayPal,Chicago
+3fa8f154-0e77-40a9-b0ec-72a09a8cf33e,2022-06-21,3960,67,Male,Regular,Smartwatch,Electronics,9,460.22,0,4141.98,PayPal,Los Angeles
+76005693-fff2-4b75-9351-c183ec3773d4,2023-06-29,9724,66,Male,Gold,Yoga Mat,Sports,4,867.24,5,3295.51,PayPal,New York
+7041380d-a5a9-4c3c-bf9a-2bfdcdc9b652,2024-03-19,1067,54,Female,Silver,Microwave,Home & Kitchen,2,326.53,10,587.75,Cash,Chicago
+d56f9153-c35c-46f7-ab83-3eaf4585e1c6,2024-02-25,3245,33,Female,Gold,Sneakers,Clothing,2,147.95,5,281.1,Debit Card,Los Angeles
+89719d7d-58d9-485e-90f6-57aed0a0265a,2022-10-23,7628,30,Female,Gold,Blender,Home & Kitchen,4,514.7,20,1647.04,Cash,Los Angeles
+120d5b8a-046f-4604-9c5d-2ad443c359de,2022-06-12,2402,66,Female,Gold,Fiction,Books,6,778.04,15,3968.0,Credit Card,Chicago
+ed88f8fe-5982-4544-8d30-7ba039520308,2024-07-26,3212,41,Female,Gold,Football,Sports,4,830.21,15,2822.71,Credit Card,Houston
+b933e57a-0066-45cf-ba06-8c066f8009b6,2024-06-27,6968,48,Female,Platinum,Non-Fiction,Books,2,350.74,15,596.26,PayPal,Miami
+f572f319-6a55-4e77-9454-7fe50308a03d,2023-09-21,9763,64,Non-Binary,Platinum,T-shirt,Clothing,5,610.97,0,3054.85,Cash,New York
+5f29fbb8-7da8-4a43-9a7c-aaba2178f13d,2023-12-13,7571,34,Female,Platinum,Headphones,Electronics,9,772.19,0,6949.71,Credit Card,New York
+e4ec0410-7cda-4d31-ba23-cae36ea5c0d7,2024-08-01,2529,37,Male,Silver,Jeans,Clothing,3,54.5,5,155.32,Cash,New York
+d2011314-a98c-4a86-932d-a2f3fb664999,2023-10-16,4007,38,Male,Silver,Puzzle,Toys,10,368.05,20,2944.4,Debit Card,Los Angeles
+efbdef6c-8426-46b1-ba22-90730826233a,2023-12-04,3585,34,Male,Silver,Doll,Toys,5,126.84,0,634.2,Cash,Miami
+eab34af9-c3b4-4638-b262-d92ddf1011b9,2023-01-01,9668,54,Male,Platinum,Puzzle,Toys,3,841.81,15,2146.62,Credit Card,Chicago
+5b75da85-3b97-4126-b875-262fffe92765,2022-08-27,2713,33,Non-Binary,Platinum,Coffee Maker,Home & Kitchen,1,637.73,20,510.18,PayPal,Miami
+97c19a95-07d1-4285-8990-eaca12106fd2,2023-04-22,9334,70,Female,Regular,Remote Car,Toys,10,513.31,15,4363.13,Credit Card,Houston
+b5d850fe-8c79-4d08-8a11-ccb6dcb7b47f,2024-04-24,7251,44,Male,Gold,Yoga Mat,Sports,6,869.86,20,4175.33,PayPal,Los Angeles
+7a254f87-4763-42c1-9202-a056ff424757,2022-04-02,6962,73,Non-Binary,Regular,Blender,Home & Kitchen,10,561.1,20,4488.8,PayPal,Chicago
+8f49b71c-3bdd-4895-9376-a57df6c6a935,2024-09-10,3811,51,Non-Binary,Regular,Yoga Mat,Sports,9,580.71,5,4965.07,Credit Card,Chicago
+8be38a29-9ea5-41ea-8de4-7f432ac93e13,2023-10-05,7934,45,Non-Binary,Regular,Jeans,Clothing,4,685.8,5,2606.04,Debit Card,Houston
+6e201f6c-5e40-4f57-aa5a-2564cd07e0be,2023-01-11,6162,47,Male,Platinum,Football,Sports,7,53.4,0,373.8,Debit Card,Los Angeles
+3b0a582d-517c-41e6-b41f-c73ff52fdaf6,2023-02-08,2742,18,Female,Silver,Smartwatch,Electronics,6,754.7,15,3848.97,Credit Card,New York
+6fcceeaa-9b5c-421c-8b49-2ac9a024e65e,2024-06-03,6954,53,Male,Gold,Fiction,Books,1,200.86,0,200.86,Cash,Chicago
+84aa50a9-2034-4ff8-a522-f2d3a6a5ce92,2023-10-29,7621,42,Female,Silver,Jeans,Clothing,4,382.07,5,1451.87,Debit Card,New York
+7c21bee0-e8cc-4d42-8fed-c05dc6b74a0d,2024-05-08,7132,74,Female,Silver,Blender,Home & Kitchen,1,658.77,0,658.77,Credit Card,New York
+fdced274-926c-41b4-bcf0-5c62d027be95,2024-08-22,1135,73,Female,Regular,Self-Help,Books,3,52.94,10,142.94,PayPal,Chicago
+c3552a17-f319-4ac5-bd07-7eed9c17dbc7,2024-06-29,3278,57,Female,Regular,Doll,Toys,2,70.59,20,112.94,PayPal,Chicago
+3ef9df78-2dd4-487b-8a21-5b1a9c7d1559,2024-09-06,3152,68,Male,Regular,Non-Fiction,Books,7,553.58,10,3487.55,Credit Card,Los Angeles
+c5b5baf2-aaec-42c7-9d5b-a4f08db200f5,2022-04-08,2884,69,Non-Binary,Regular,Science,Books,6,878.51,20,4216.85,Debit Card,New York
+8ee42b30-96f5-4ed2-9bf9-c3f5d00f776c,2023-08-31,2589,60,Non-Binary,Silver,Smartwatch,Electronics,10,661.23,10,5951.07,Debit Card,Miami
+b3333ab8-8f80-48e1-971d-09b8c289bd4b,2024-11-21,9748,68,Female,Platinum,Self-Help,Books,3,234.69,15,598.46,Debit Card,Houston
+db8c164b-1e96-4f9f-8300-a11f89f20c5d,2024-01-29,3611,50,Non-Binary,Regular,Laptop,Electronics,10,629.26,20,5034.08,Cash,Chicago
+c0224bf2-b7a2-4711-a798-3077bbbd5c56,2024-01-23,8814,25,Male,Gold,Tennis Racket,Sports,5,960.26,15,4081.11,Credit Card,Los Angeles
+99097a11-5ea0-4209-8711-2ef0514cf66a,2024-12-28,7238,60,Male,Gold,Headphones,Electronics,8,871.07,10,6271.7,Debit Card,Houston
+0c3487bf-7ce0-47f9-b63b-f873c5e7f513,2024-08-06,7641,73,Male,Regular,Jacket,Clothing,9,360.23,15,2755.76,PayPal,Los Angeles
+1ee6c1d7-ebed-4dfe-ab0a-4a33f7db43e2,2023-08-18,9260,20,Male,Silver,Remote Car,Toys,2,717.52,0,1435.04,Debit Card,Houston
+3a430762-39c0-42cd-becd-2e341889a910,2025-03-01,7300,30,Female,Silver,Laptop,Electronics,3,197.77,5,563.64,Debit Card,Miami
+37bb5b19-6e08-42a3-9e1a-9187cc2bef6c,2022-12-06,3855,20,Female,Regular,Dumbbells,Sports,8,364.7,20,2334.08,PayPal,Los Angeles
+e46f4726-294d-49e6-8b9e-b715be660a70,2025-01-30,1843,70,Female,Platinum,Self-Help,Books,4,653.9,5,2484.82,PayPal,Miami
+b07b7a62-e6fd-4bb5-a0df-685ee1138f08,2023-10-31,2457,34,Male,Silver,Headphones,Electronics,2,471.89,0,943.78,Credit Card,New York
+7ee4ffa5-88a2-4d00-8933-a2fb83f89cc8,2024-10-06,2228,44,Non-Binary,Silver,T-shirt,Clothing,4,402.02,10,1447.27,Debit Card,New York
+4edaa7e3-81cc-4cbd-af84-de004e06179e,2022-11-06,2280,36,Female,Silver,Smartwatch,Electronics,4,726.03,10,2613.71,Credit Card,Houston
+d5c72ca8-7f86-46a1-8fb6-99cca07f73bc,2023-02-06,5338,63,Non-Binary,Gold,Vacuum Cleaner,Home & Kitchen,3,907.56,10,2450.41,PayPal,New York
+6390da65-d767-4dff-8d98-c7f59e5a1cf2,2023-05-17,2401,33,Female,Regular,Headphones,Electronics,8,60.86,15,413.85,Cash,Houston
+8aa2c697-5047-4ea3-b2eb-38ec6c9647a6,2024-06-22,6552,19,Male,Platinum,Blender,Home & Kitchen,3,811.91,0,2435.73,Cash,Chicago
+d852be84-21c1-45ae-ac94-fe1b557784ea,2024-07-05,1410,70,Male,Silver,Puzzle,Toys,1,715.08,20,572.06,Credit Card,Los Angeles
+a3d7a468-e3aa-42aa-b5e7-0febf2f33268,2022-05-24,7127,46,Male,Silver,Fiction,Books,10,348.04,20,2784.32,Credit Card,Chicago
+0bbf63ea-0851-4d36-b162-1d1ea9048a19,2024-12-22,2756,55,Non-Binary,Gold,T-shirt,Clothing,8,196.63,5,1494.39,PayPal,Houston
+955064bc-7f95-4da3-a24c-016a33245fc6,2023-11-15,3987,32,Female,Regular,Lego Set,Toys,7,873.57,0,6114.99,Credit Card,Los Angeles
+e28a7cf4-90c6-4c1a-a0aa-f55d0ba5bfc2,2022-11-13,8799,21,Male,Silver,T-shirt,Clothing,5,250.47,10,1127.12,Debit Card,Chicago
+251685e5-b5a1-4c62-839a-617d8f52bb3b,2023-03-15,8356,25,Female,Regular,Microwave,Home & Kitchen,3,512.42,5,1460.4,PayPal,Chicago
+e7469c80-8bff-487f-b901-fee2e040cb65,2025-03-11,4847,43,Female,Platinum,Remote Car,Toys,4,266.57,0,1066.28,Cash,Miami
+dbeefaa3-e035-4910-9ea3-6f82cee8000d,2024-02-08,7145,24,Female,Regular,Microwave,Home & Kitchen,8,956.14,0,7649.12,Cash,Chicago
+e6f4fae5-bf71-429a-a9cf-631e0afadcaf,2024-02-04,3569,52,Non-Binary,Silver,Jeans,Clothing,6,867.48,5,4944.64,PayPal,Chicago
+ce4fdc35-4c22-45f2-8454-43525e3dc960,2023-12-19,8055,57,Non-Binary,Silver,Laptop,Electronics,3,244.26,10,659.5,Debit Card,New York
+bf915bfa-a979-4764-8958-b335ebc29386,2022-04-22,9046,45,Male,Platinum,Non-Fiction,Books,9,54.57,0,491.13,PayPal,Houston
+67603712-0002-47ea-aeeb-7345ef5a0957,2022-04-15,9771,36,Female,Regular,Dumbbells,Sports,5,245.25,5,1164.94,Cash,Los Angeles
+b94e3ffc-f3b0-4842-8e30-c32993eccac1,2024-12-31,8394,22,Male,Platinum,Jacket,Clothing,10,442.09,0,4420.9,Cash,New York
+cb690d4d-646c-476f-8c92-c91c2c1e27e0,2023-08-18,5473,52,Male,Regular,Laptop,Electronics,4,19.64,20,62.85,Credit Card,Miami
+1101e1fb-baa8-4b06-94c4-e96c30b722ec,2024-03-19,2788,54,Female,Platinum,Tennis Racket,Sports,9,326.6,10,2645.46,Credit Card,Los Angeles
+7bedbe6b-a97b-4fb4-8f95-22966a683be1,2022-04-03,5649,33,Male,Platinum,Self-Help,Books,2,337.63,10,607.73,Debit Card,Houston
+b9a76c1a-c971-4b63-835a-d81a6964b55c,2024-10-03,9140,30,Non-Binary,Gold,Non-Fiction,Books,2,908.4,5,1725.96,PayPal,Los Angeles
+379f23c1-4ac4-43ce-a73b-6627b7f678c4,2023-09-11,5298,65,Female,Gold,Remote Car,Toys,8,876.68,0,7013.44,PayPal,Los Angeles
+3613a2fc-3866-46e4-8cbf-8658996cba18,2025-02-08,7334,65,Non-Binary,Silver,Science,Books,1,385.08,10,346.57,Debit Card,Los Angeles
+2c697fc7-13a8-4a6a-b214-3e22337d3bc6,2023-10-07,9872,50,Female,Regular,Puzzle,Toys,9,118.71,10,961.55,Debit Card,Houston
+00647bf4-83c9-427a-b0b5-349003bd51a5,2024-06-25,2529,29,Non-Binary,Regular,Blender,Home & Kitchen,2,459.57,0,919.14,Credit Card,Houston
+8cccd28e-98a5-4ae2-b830-1ef6fd130880,2022-10-02,5536,48,Female,Platinum,Blender,Home & Kitchen,1,69.01,15,58.66,Credit Card,New York
+9971c093-f338-4344-8c0d-aae0052ecd43,2024-11-14,8813,25,Female,Silver,T-shirt,Clothing,1,209.52,5,199.04,Cash,Los Angeles
+45c6ae98-ab29-4a6d-9282-06efd8eaa562,2023-07-17,9236,46,Non-Binary,Platinum,Jacket,Clothing,10,423.97,10,3815.73,PayPal,Chicago
+fa981445-355d-4ade-b820-ba8897b3174c,2022-04-18,6762,70,Female,Silver,Smartphone,Electronics,7,283.92,20,1589.95,Cash,Chicago
+a0becd4f-2bce-4881-828a-dbdd70288047,2024-11-12,7028,52,Male,Regular,Yoga Mat,Sports,7,69.67,15,414.54,Debit Card,New York
+1eb2aeab-8489-4485-8a50-4a407d04e1a9,2023-06-19,7047,69,Male,Platinum,Coffee Maker,Home & Kitchen,6,604.44,5,3445.31,PayPal,Miami
+0f4928ed-2966-45f2-a934-c39ee88449e1,2023-10-08,9229,23,Non-Binary,Platinum,Microwave,Home & Kitchen,9,779.11,20,5609.59,Credit Card,New York
+283ed311-c358-4ff5-88cf-f436c811cc6d,2022-11-02,4835,23,Female,Platinum,Football,Sports,10,164.0,10,1476.0,PayPal,Houston
+eca9d36e-69db-4416-931f-bc5ef0955987,2024-10-07,2933,45,Male,Silver,Fiction,Books,9,729.0,15,5576.85,Cash,Houston
+aaf01cf1-5fc6-4331-8bfd-4169f145ec6b,2024-11-15,5106,33,Non-Binary,Platinum,Science,Books,5,270.88,0,1354.4,Cash,Houston
+002245c0-1db7-4516-a2d9-b09a4899c5aa,2024-07-02,9618,27,Non-Binary,Regular,Non-Fiction,Books,4,230.36,20,737.15,Debit Card,Chicago
+8d6ac929-b52b-48c9-aeee-e716a30619e0,2023-06-11,1536,57,Female,Gold,Tennis Racket,Sports,1,623.7,20,498.96,PayPal,New York
+9beb712f-2ad6-4d97-ac79-f0581043d0e2,2023-03-24,6727,34,Male,Silver,Lego Set,Toys,8,971.65,0,7773.2,PayPal,Miami
+af2db276-528f-4fe1-aefe-64356ae90187,2023-08-22,2367,22,Non-Binary,Platinum,Non-Fiction,Books,4,874.35,15,2972.79,PayPal,Houston
+e8e72a53-9fa0-46ed-b38b-12bcb931222f,2022-03-30,2687,32,Female,Platinum,Blender,Home & Kitchen,2,467.09,0,934.18,PayPal,Houston
+0af05773-6390-481b-b3a1-251d11d64fff,2022-04-02,7924,71,Non-Binary,Platinum,Laptop,Electronics,10,173.73,0,1737.3,Cash,Los Angeles
+94fe185a-649c-499f-bd47-5ed431cff486,2023-01-11,3873,48,Male,Platinum,Jeans,Clothing,6,351.54,0,2109.24,Debit Card,Houston
+8798f80b-67dc-40a0-b766-e8df4bbe83f4,2024-08-01,2268,65,Female,Platinum,Headphones,Electronics,5,137.9,15,586.07,Debit Card,Los Angeles
+7277dc87-e6b5-4699-8d4f-4ac6e7df4298,2024-11-07,1364,21,Non-Binary,Gold,Laptop,Electronics,8,376.67,15,2561.36,Credit Card,New York
+3f43661c-6f94-4e33-b407-337961864fc1,2025-01-15,3748,59,Non-Binary,Silver,Jacket,Clothing,3,446.5,15,1138.58,PayPal,Miami
+c30eb61c-5159-47b7-9815-c5161089362e,2022-11-11,6426,64,Female,Regular,Non-Fiction,Books,1,628.65,15,534.35,Credit Card,Chicago
+232954de-ea28-457f-a27f-b003a3dc2cf3,2025-01-14,9586,29,Male,Platinum,Smartphone,Electronics,2,574.2,15,976.14,Cash,Miami
+04c39f81-e278-48a9-880a-a9d0d488c1fb,2023-05-13,6985,39,Non-Binary,Regular,Jeans,Clothing,2,424.2,0,848.4,PayPal,Chicago
+9c6d36be-6b7b-4d25-a6f1-1a05f81e8675,2023-06-17,4516,51,Male,Silver,Blender,Home & Kitchen,2,485.42,15,825.21,Cash,Miami
+1533e173-cb90-4a4e-bca1-0c9626da1357,2024-08-17,2466,25,Non-Binary,Regular,T-shirt,Clothing,4,72.76,10,261.94,PayPal,Miami
+bde741d4-d27a-45e5-99f1-b35591b43959,2024-04-04,3127,36,Female,Silver,Lego Set,Toys,3,236.92,0,710.76,PayPal,Los Angeles
+26100e68-e1d3-44c0-a256-cc3915559969,2024-05-27,7259,61,Non-Binary,Silver,Jeans,Clothing,7,16.23,10,102.25,Credit Card,Miami
+3caf54df-8a9c-4c43-b012-d7468101b8a4,2024-03-07,4280,63,Non-Binary,Gold,Tennis Racket,Sports,6,184.76,15,942.28,Debit Card,Houston
+acc9d08d-961a-4622-9e91-dcc3af9f3e48,2025-01-08,5545,54,Male,Regular,Smartphone,Electronics,2,263.54,10,474.37,Cash,Chicago
+b12efe01-7c71-4075-8879-197c7f99be6a,2024-01-06,2745,64,Male,Gold,Puzzle,Toys,8,848.91,20,5433.02,Cash,Miami
+4ba1cbca-3527-4939-8e5b-a305b9f4c7f8,2024-01-18,5979,74,Male,Platinum,Blender,Home & Kitchen,2,555.67,0,1111.34,Credit Card,Miami
+127befcb-ae70-42e2-82cb-fbc50a8a572e,2022-12-26,3860,39,Female,Silver,Non-Fiction,Books,3,170.16,5,484.96,Debit Card,Miami
+255949f3-c894-451d-8aae-9556928aac34,2022-09-21,9550,65,Female,Platinum,Tennis Racket,Sports,10,433.63,0,4336.3,PayPal,New York
+5e8e26be-bc71-46ab-b1fa-4d99267439f8,2024-10-31,7709,23,Male,Silver,Laptop,Electronics,6,264.27,10,1427.06,Credit Card,Los Angeles
+414bb647-e8f4-41f5-a7ab-c1da255715eb,2024-06-25,7500,46,Male,Regular,Dumbbells,Sports,2,152.14,10,273.85,Cash,New York
+c55e9792-f8df-45b5-a920-c9cce556c24d,2023-01-18,1820,71,Male,Silver,Jacket,Clothing,9,499.86,15,3823.93,Cash,New York
+6d4e5417-edef-4604-9efe-cd03216d0804,2024-10-12,7427,44,Female,Silver,Fiction,Books,4,404.89,15,1376.63,Credit Card,Houston
+bddcdd19-29d7-4cfe-b537-996b3e6f14c3,2022-08-07,5772,52,Female,Silver,Vacuum Cleaner,Home & Kitchen,9,110.74,0,996.66,PayPal,Houston
+d63fbed2-76ec-4159-8d75-58e16702ab60,2024-04-19,6448,38,Non-Binary,Gold,Doll,Toys,6,798.82,10,4313.63,Credit Card,Chicago
+26a4055b-1012-4c9b-9fa5-acdf8e82f334,2022-03-16,4659,48,Male,Regular,Laptop,Electronics,9,442.86,20,3188.59,Cash,New York
+5db10384-6f58-4ee8-b4e9-ff9dbfe66411,2024-04-28,3971,27,Male,Regular,Sneakers,Clothing,5,476.19,10,2142.86,Credit Card,Chicago
+78395919-8776-4dde-b56f-5b4c62fa8a91,2023-10-09,8265,25,Female,Gold,Smartwatch,Electronics,9,906.42,20,6526.22,Cash,Chicago
+312543d1-0e57-4a26-8317-985d712436aa,2023-02-13,3179,30,Female,Silver,Yoga Mat,Sports,4,988.23,15,3359.98,PayPal,Chicago
+d2b8a8e5-ad73-45a8-9ffb-7fd1bedc36d8,2022-10-23,2838,26,Non-Binary,Platinum,Headphones,Electronics,4,140.7,10,506.52,Credit Card,New York
+29ee8d44-7b36-482a-b9d3-e536f30ae5ab,2022-08-16,4616,52,Male,Regular,Science,Books,1,241.84,10,217.66,Debit Card,Miami
+fb087bc4-993a-4db1-a6b9-117335efa10f,2023-06-02,1504,19,Male,Gold,Coffee Maker,Home & Kitchen,2,776.99,5,1476.28,Debit Card,Chicago
+d62f94f7-25a7-48b0-939b-b4d14b53612a,2023-03-16,7917,70,Male,Platinum,Puzzle,Toys,3,637.65,20,1530.36,Debit Card,Los Angeles
+2fd09fbd-2a50-4c32-a4a7-a597b51e4dc8,2023-05-12,8851,38,Male,Platinum,Jeans,Clothing,3,236.54,0,709.62,Cash,Chicago
+a2416df1-c79b-4544-baed-82da6381ff8f,2023-02-19,7971,33,Non-Binary,Silver,Dumbbells,Sports,10,292.61,20,2340.88,Cash,New York
+4a4f26ed-0134-4383-b734-c1b7980a2874,2022-10-11,8771,50,Non-Binary,Silver,Smartwatch,Electronics,6,588.25,0,3529.5,PayPal,Houston
+a6406645-11ac-450d-9407-0d191a4953e9,2024-12-06,5197,23,Non-Binary,Platinum,Laptop,Electronics,5,745.94,0,3729.7,PayPal,Miami
+025d058e-56bc-4fed-a35c-d1ae3b3405c6,2024-02-11,3668,28,Male,Silver,Football,Sports,4,972.89,15,3307.83,PayPal,Los Angeles
+c4f2ec57-145c-4461-8f67-756de3d49fd5,2023-02-07,6480,34,Female,Platinum,Tennis Racket,Sports,7,546.46,0,3825.22,Debit Card,Miami
+bde7377e-bc1b-4067-aa6d-59edb1e3ef45,2022-11-06,8529,23,Male,Regular,Lego Set,Toys,10,859.06,15,7302.01,Cash,Miami
+91d42a88-fea1-433a-88db-bb825ecfd83a,2023-10-19,6706,22,Female,Gold,Remote Car,Toys,4,561.17,0,2244.68,Debit Card,New York
+968ddfc6-9f69-46b9-8c09-70665ead5a19,2023-01-19,5542,66,Non-Binary,Regular,Microwave,Home & Kitchen,1,933.21,20,746.57,Credit Card,New York
+50177512-c319-47e7-94f2-1ff53767f077,2024-09-16,6919,18,Female,Regular,Fiction,Books,9,311.55,0,2803.95,Credit Card,Miami
+3ae329df-c2fb-4787-8619-823c709e927c,2024-05-21,9933,46,Non-Binary,Silver,Puzzle,Toys,1,178.12,10,160.31,Credit Card,Los Angeles
+7ef8c16e-8d49-47e6-ab87-fbb39cfe8d54,2022-08-15,8190,63,Male,Regular,Jacket,Clothing,2,126.06,10,226.91,Credit Card,Miami
+2633f14f-f441-4cdb-9563-326db63cc5ad,2022-05-30,1743,72,Female,Platinum,Science,Books,2,162.76,10,292.97,Credit Card,Los Angeles
+e90335b4-90ec-4b99-bf83-d0194afe1194,2024-06-22,5779,67,Female,Silver,Doll,Toys,8,727.48,10,5237.86,PayPal,Los Angeles
+1a9b29e1-9963-4e01-818e-13b8b76499bc,2024-09-14,3916,60,Male,Platinum,Sneakers,Clothing,2,889.19,5,1689.46,Credit Card,Los Angeles
+9f984954-cfce-49e8-a75a-f040dde1ede1,2024-08-04,2047,41,Non-Binary,Gold,Coffee Maker,Home & Kitchen,3,777.47,10,2099.17,PayPal,Miami
+1a5ae5b7-31a8-491d-b15b-5ed14bbd5a74,2024-08-27,7528,46,Male,Silver,Blender,Home & Kitchen,7,42.03,5,279.5,PayPal,Houston
+3077a5a2-acd5-44ff-b2ad-9f4205d6ab98,2023-01-17,7563,71,Female,Platinum,Puzzle,Toys,8,226.9,15,1542.92,Credit Card,Houston
+640cfa3e-d7ac-4a26-9fab-41782aaeffd1,2022-07-10,7123,64,Female,Regular,Football,Sports,9,464.6,5,3972.33,Cash,Chicago
+13ddfcfa-c34c-4ea3-be24-effec59f9329,2023-06-06,4670,31,Female,Regular,Tennis Racket,Sports,1,96.18,5,91.37,Credit Card,New York
+c4f46d02-8547-4a7b-8b56-10824d4fea3a,2022-08-31,3074,38,Female,Gold,T-shirt,Clothing,1,552.96,20,442.37,PayPal,Miami
+b13fe686-3c4e-4128-b2be-bb76e119c529,2022-05-14,4400,37,Non-Binary,Regular,Science,Books,9,253.57,0,2282.13,Credit Card,Los Angeles
+296fef04-c10e-4436-a7c0-5412aafd0a03,2022-10-04,6031,75,Female,Regular,Science,Books,4,317.07,15,1078.04,Credit Card,New York
+ebbf1905-932a-496a-b232-e33ef9fd76f9,2022-08-26,6865,46,Female,Platinum,Lego Set,Toys,6,666.09,0,3996.54,Cash,Chicago
+537a0fb0-f09e-4ee1-a2d9-cce7f34cf737,2024-03-11,1328,40,Non-Binary,Regular,T-shirt,Clothing,1,999.66,0,999.66,Cash,Chicago
+a7905959-4d39-4f9c-84b8-31a16037de2f,2022-12-29,5993,63,Non-Binary,Regular,Vacuum Cleaner,Home & Kitchen,7,396.18,5,2634.6,Cash,New York
+af24e960-107d-4e33-b247-06916b56e7ba,2022-03-21,2502,28,Female,Gold,Yoga Mat,Sports,2,373.31,0,746.62,PayPal,New York
+502537cd-0da9-4f83-a927-52173ed21fe0,2023-10-13,7225,68,Male,Silver,Yoga Mat,Sports,3,828.9,20,1989.36,Cash,New York
+b66b19d1-a8a5-4f57-b888-66f499200e01,2024-06-02,8522,35,Non-Binary,Regular,Puzzle,Toys,5,918.36,15,3903.03,Cash,Houston
+71c8d5c8-2c7e-4f6a-a660-a51b73e92610,2023-01-31,5450,29,Non-Binary,Platinum,Microwave,Home & Kitchen,5,518.25,10,2332.12,Cash,Los Angeles
+5f1f29ac-d60a-4e3b-9948-5c6e3b521710,2023-04-26,7026,21,Female,Regular,Microwave,Home & Kitchen,9,161.93,10,1311.63,Cash,New York
+bb73a2ff-e6eb-4a16-89c9-b848682ec1e7,2024-12-26,4316,73,Non-Binary,Platinum,Coffee Maker,Home & Kitchen,4,136.61,10,491.8,PayPal,Chicago
+79a8d7ce-47e4-4acb-8e45-fd81274c7c0d,2023-08-10,5821,19,Female,Regular,Football,Sports,7,987.49,0,6912.43,PayPal,Chicago
+f055cd09-7897-485f-8cbc-87e5f07a067e,2024-10-03,1068,54,Female,Regular,Remote Car,Toys,5,603.39,15,2564.41,Credit Card,Miami
+b363ee98-3286-4cdf-a6d2-9ab71d1193ec,2024-09-30,3823,60,Non-Binary,Gold,Dumbbells,Sports,3,778.44,0,2335.32,Credit Card,Miami
+7b4b7c12-6036-4587-b116-d9cb943cb5fb,2022-06-15,7646,46,Female,Silver,Football,Sports,7,94.64,10,596.23,PayPal,Houston
+71fba5a3-de80-4792-b685-3f425e524891,2024-12-10,7041,23,Male,Regular,Vacuum Cleaner,Home & Kitchen,8,534.0,15,3631.2,Credit Card,Miami
+02ed3e40-8ccf-45f3-a170-c55bfd8d15c1,2022-12-06,6925,51,Non-Binary,Regular,Jacket,Clothing,5,764.66,15,3249.8,Debit Card,New York
+8ea7bda6-971e-4a74-93b1-6f8a1a045c3a,2024-08-10,5921,74,Female,Platinum,Fiction,Books,2,807.54,15,1372.82,Debit Card,Miami
+7f7b81a2-5c7c-43e3-ab21-70575dcc5d75,2022-03-31,2590,68,Female,Silver,Coffee Maker,Home & Kitchen,3,983.14,20,2359.54,Credit Card,Houston
+6438077f-8df5-438e-aa39-963625de2c21,2023-05-27,3046,47,Male,Gold,Remote Car,Toys,6,581.49,5,3314.49,Debit Card,Chicago
+87cdbb4d-e999-401e-8d97-3dec3d902f9e,2022-09-07,2809,60,Male,Regular,Coffee Maker,Home & Kitchen,8,758.83,0,6070.64,Debit Card,Los Angeles
+2c30a9f7-8178-49fa-ac14-6dff893596e0,2024-08-12,1084,34,Female,Platinum,Blender,Home & Kitchen,2,346.55,10,623.79,Cash,Chicago
+cfce5799-0298-4705-8de1-f48d5159b442,2023-01-06,1746,65,Non-Binary,Gold,T-shirt,Clothing,4,111.03,10,399.71,Cash,Los Angeles
+379049c6-1418-4be9-834a-e53e372a602a,2023-04-11,3538,69,Female,Gold,Puzzle,Toys,6,617.97,5,3522.43,PayPal,Miami
+88eed7fc-9ee7-4897-b205-0e83b0d6bb74,2024-05-18,2323,65,Male,Silver,Football,Sports,6,790.06,0,4740.36,PayPal,Houston
+75c61d2e-41b9-492d-9052-62ef0eba3a97,2023-08-10,1076,47,Non-Binary,Platinum,Jacket,Clothing,9,968.34,20,6972.05,Credit Card,Houston
+a7bbdf70-7516-40c7-9faf-9bf8b3c103e1,2022-04-06,5498,29,Female,Gold,Dumbbells,Sports,7,787.69,20,4411.06,Debit Card,Houston
+637c1f98-a7e7-4056-a860-2965b5fed1ec,2024-08-22,2160,62,Non-Binary,Silver,Non-Fiction,Books,7,984.98,5,6550.12,PayPal,Miami
+7a55fdd7-b35c-448c-b6b3-f152849bdbb9,2022-09-03,3435,41,Male,Regular,Laptop,Electronics,3,545.69,20,1309.66,PayPal,Miami
+249aeb03-7a47-4f75-afff-406c203a900e,2024-07-10,1839,30,Female,Gold,Self-Help,Books,10,665.61,10,5990.49,Cash,New York
+3d6b47a0-2356-4b59-9640-3893c948145a,2022-04-19,7594,34,Female,Silver,Football,Sports,9,734.49,15,5618.85,PayPal,Houston
+f18d95df-56d3-4640-8ed3-fa3c77e9ad35,2022-06-15,2533,24,Female,Platinum,Smartphone,Electronics,9,444.5,15,3400.42,Cash,Los Angeles
+accbfbca-aea1-4b98-bf85-3708adc4ba20,2024-11-03,4602,22,Female,Platinum,Jeans,Clothing,10,485.08,5,4608.26,Cash,Houston
+ba5fecf2-12b1-4669-ab3c-a04cea74d5d1,2023-06-07,9106,18,Non-Binary,Silver,Self-Help,Books,6,480.68,5,2739.88,Credit Card,Chicago
+60b3ea77-7e53-4556-a2c8-49cb22dbf3b7,2024-11-18,1120,67,Non-Binary,Platinum,Dumbbells,Sports,8,781.06,10,5623.63,Cash,Miami
+3b8c0793-b9fd-4147-b832-bef5a29bc4cc,2023-06-28,8722,50,Female,Gold,Doll,Toys,10,101.91,5,968.14,Debit Card,Miami
+1ab61976-5065-4ae8-92d1-1019d28a9b27,2023-02-11,4560,31,Male,Regular,Blender,Home & Kitchen,3,770.58,10,2080.57,Credit Card,New York
+24140682-4893-4b32-a534-6f471be19eed,2023-10-10,8665,72,Non-Binary,Gold,Remote Car,Toys,7,257.83,20,1443.85,Credit Card,New York
+f02b5468-63e3-48e8-a0d5-3ffdd679d031,2023-11-28,5527,54,Female,Regular,Doll,Toys,7,47.09,20,263.7,Debit Card,Chicago
+560161d3-5f76-4234-b703-d4af2e006a05,2022-10-02,1502,75,Non-Binary,Platinum,Sneakers,Clothing,6,357.67,15,1824.12,Credit Card,Los Angeles
+fd205cf1-41cd-4109-a190-9f25522063da,2024-06-27,2432,34,Non-Binary,Platinum,Fiction,Books,7,495.69,15,2949.36,Cash,New York
+3b8d6227-b706-4ecc-bdad-1a568dc26a45,2023-07-17,1649,34,Non-Binary,Platinum,Jeans,Clothing,5,586.63,5,2786.49,Credit Card,Chicago
+290c4f65-3093-4747-8ccd-f858b1f1fb25,2022-07-18,2357,56,Female,Silver,Football,Sports,1,380.11,5,361.1,Credit Card,New York
+d152185a-a875-419d-8cf7-530db1b4fb62,2024-12-03,9482,29,Non-Binary,Silver,Smartwatch,Electronics,7,372.51,0,2607.57,Credit Card,New York
+80d34b60-859b-43dc-bbeb-90f6d5be7604,2022-10-28,9382,19,Female,Platinum,Coffee Maker,Home & Kitchen,8,783.3,10,5639.76,PayPal,Los Angeles
+40828213-54bf-460e-8627-d19da27b4373,2024-10-04,5367,25,Non-Binary,Silver,Vacuum Cleaner,Home & Kitchen,4,150.52,5,571.98,Credit Card,Los Angeles
+46532f70-1dfa-492a-a7e5-f9e621469abf,2022-07-26,3559,69,Non-Binary,Regular,Fiction,Books,9,378.33,15,2894.22,Debit Card,Los Angeles
+4e5d444b-cf47-4aa8-8f40-9c037ed44850,2023-02-27,5632,72,Non-Binary,Silver,Football,Sports,4,522.31,20,1671.39,Debit Card,Miami
+b1fdd181-83d1-41af-93c1-dcf8a877ebcc,2025-02-16,9250,72,Non-Binary,Platinum,Yoga Mat,Sports,5,324.55,10,1460.48,Debit Card,Chicago
+c8848d5c-c9b8-45fd-81f2-be9f26062f61,2022-11-16,7306,59,Female,Platinum,Puzzle,Toys,9,559.86,5,4786.8,PayPal,Los Angeles
